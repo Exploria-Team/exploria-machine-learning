@@ -1,0 +1,438 @@
+Place_Id,Place_Name,Img_Path_0,Img_Path_1,Img_Path_2
+1,Monumen Nasional,images_output\Monumen Nasional\Monumen Nasional_0.jpg,images_output\Monumen Nasional\Monumen Nasional_1.jpg,images_output\Monumen Nasional\Monumen Nasional_2.jpg
+2,Kota Tua,images_output\Kota Tua\Kota Tua_0.jpg,images_output\Kota Tua\Kota Tua_1.jpg,nan
+3,Dunia Fantasi,images_output\Dunia Fantasi\Dunia Fantasi_0.jpg,images_output\Dunia Fantasi\Dunia Fantasi_1.png,images_output\Dunia Fantasi\Dunia Fantasi_2.jpg
+4,Taman Mini Indonesia Indah (TMII),images_output\Taman Mini Indonesia Indah (TMII)\Taman Mini Indonesia Indah (TMII)_0.jpg,images_output\Taman Mini Indonesia Indah (TMII)\Taman Mini Indonesia Indah (TMII)_1.jpg,images_output\Taman Mini Indonesia Indah (TMII)\Taman Mini Indonesia Indah (TMII)_2.jpg
+5,Atlantis Water Adventure,images_output\Atlantis Water Adventure\Atlantis Water Adventure_0.jpg,images_output\Atlantis Water Adventure\Atlantis Water Adventure_1.jpg,images_output\Atlantis Water Adventure\Atlantis Water Adventure_2.jpg
+6,Taman Impian Jaya Ancol,images_output\Taman Impian Jaya Ancol\Taman Impian Jaya Ancol_0.jpg,images_output\Taman Impian Jaya Ancol\Taman Impian Jaya Ancol_1.jpg,nan
+7,Kebun Binatang Ragunan,images_output\Kebun Binatang Ragunan\Kebun Binatang Ragunan_0.png,images_output\Kebun Binatang Ragunan\Kebun Binatang Ragunan_1.png,nan
+8,Ocean Ecopark,images_output\Ocean Ecopark\Ocean Ecopark_0.jpg,images_output\Ocean Ecopark\Ocean Ecopark_1.jpg,images_output\Ocean Ecopark\Ocean Ecopark_2.jpg
+9,Pelabuhan Marina,images_output\Pelabuhan Marina\Pelabuhan Marina_0.jpg,images_output\Pelabuhan Marina\Pelabuhan Marina_1.jpg,nan
+10,Pulau Tidung,images_output\Pulau Tidung\Pulau Tidung_0.jpg,images_output\Pulau Tidung\Pulau Tidung_1.jpg,nan
+11,Pulau Bidadari,images_output\Pulau Bidadari\Pulau Bidadari_0.jpg,images_output\Pulau Bidadari\Pulau Bidadari_1.jpg,images_output\Pulau Bidadari\Pulau Bidadari_2.jpg
+12,Pulau Pari,images_output\Pulau Pari\Pulau Pari_0.jpg,images_output\Pulau Pari\Pulau Pari_1.jpg,images_output\Pulau Pari\Pulau Pari_2.jpg
+13,Pulau Pramuka,images_output\Pulau Pramuka\Pulau Pramuka_0.jpg,images_output\Pulau Pramuka\Pulau Pramuka_1.jpg,images_output\Pulau Pramuka\Pulau Pramuka_2.jpg
+14,Pulau Pelangi,images_output\Pulau Pelangi\Pulau Pelangi_0.jpg,images_output\Pulau Pelangi\Pulau Pelangi_1.jpg,images_output\Pulau Pelangi\Pulau Pelangi_2.jpg
+15,Pasar Seni,images_output\Pasar Seni\Pasar Seni_0.jpg,images_output\Pasar Seni\Pasar Seni_1.jpg,nan
+16,Jembatan Kota Intan,images_output\Jembatan Kota Intan\Jembatan Kota Intan_0.jpg,images_output\Jembatan Kota Intan\Jembatan Kota Intan_1.jpg,nan
+17,Museum Fatahillah,images_output\Museum Fatahillah\Museum Fatahillah_0.jpg,images_output\Museum Fatahillah\Museum Fatahillah_1.jpg,nan
+18,Museum Bank Indonesia,images_output\Museum Bank Indonesia\Museum Bank Indonesia_0.jpg,images_output\Museum Bank Indonesia\Museum Bank Indonesia_1.jpg,nan
+19,Kidzania,images_output\Kidzania\Kidzania_0.jpg,images_output\Kidzania\Kidzania_1.jpg,nan
+20,Museum Taman Prasasti,images_output\Museum Taman Prasasti\Museum Taman Prasasti_0.jpg,nan,nan
+21,Museum Wayang,images_output\Museum Wayang\Museum Wayang_0.jpg,images_output\Museum Wayang\Museum Wayang_1.jpg,images_output\Museum Wayang\Museum Wayang_2.jpg
+22,Masjid Istiqlal,images_output\Masjid Istiqlal\Masjid Istiqlal_0.jpg,nan,nan
+23,Gereja Katedral,images_output\Gereja Katedral Santo Petrus Bandung\Gereja Katedral Santo Petrus Bandung_0.jpg,images_output\Gereja Katedral Santo Petrus Bandung\Gereja Katedral Santo Petrus Bandung_1.jpg,nan
+24,Museum Nasional,images_output\Museum Nasional\Museum Nasional_0.jpg,images_output\Museum Nasional\Museum Nasional_1.jpg,nan
+25,Pasar Tanah Abang,images_output\Pasar Tanah Abang\Pasar Tanah Abang_0.jpg,images_output\Pasar Tanah Abang\Pasar Tanah Abang_1.jpg,nan
+26,Pecinan Glodok,images_output\Pecinan Glodok\Pecinan Glodok_0.jpg,images_output\Pecinan Glodok\Pecinan Glodok_1.jpg,nan
+27,Sea World,images_output\Sea World\Sea World_0.jpg,nan,nan
+28,Wisata Agro Edukatif Istana Susu Cibugary,images_output\Wisata Agro Edukatif Istana Susu Cibugary\Wisata Agro Edukatif Istana Susu Cibugary_0.jpg,images_output\Wisata Agro Edukatif Istana Susu Cibugary\Wisata Agro Edukatif Istana Susu Cibugary_1.jpg,nan
+29,Wisata Kuliner Pecenongan,images_output\Wisata Kuliner Pecenongan\Wisata Kuliner Pecenongan_0.jpg,images_output\Wisata Kuliner Pecenongan\Wisata Kuliner Pecenongan_1.jpg,nan
+30,Taman Menteng,images_output\Taman Menteng\Taman Menteng_0.jpg,images_output\Taman Menteng\Taman Menteng_1.png,images_output\Taman Menteng\Taman Menteng_2.png
+31,Wisata Alam Mangrove Angke,images_output\Wisata Alam Mangrove Angke\Wisata Alam Mangrove Angke_0.jpg,images_output\Wisata Alam Mangrove Angke\Wisata Alam Mangrove Angke_1.jpg,images_output\Wisata Alam Mangrove Angke\Wisata Alam Mangrove Angke_2.jpg
+32,Setu Babakan,images_output\Setu Babakan\Setu Babakan_0.jpg,nan,nan
+33,Taman Suropati,images_output\Taman Suropati\Taman Suropati_0.jpg,nan,nan
+34,Pasar Taman Puring,images_output\Pasar Taman Puring\Pasar Taman Puring_0.jpg,images_output\Pasar Taman Puring\Pasar Taman Puring_1.jpg,nan
+35,Grand Indonesia Mall,images_output\Grand Indonesia Mall\Grand Indonesia Mall_0.jpg,images_output\Grand Indonesia Mall\Grand Indonesia Mall_1.jpg,nan
+36,Skyrink - Mall Taman Anggrek,images_output\Skyrink - Mall Taman Anggrek\Skyrink - Mall Taman Anggrek_0.jpg,nan,nan
+37,Bumi Perkemahan Cibubur,images_output\Bumi Perkemahan Cibubur\Bumi Perkemahan Cibubur_0.jpg,images_output\Bumi Perkemahan Cibubur\Bumi Perkemahan Cibubur_1.jpg,images_output\Bumi Perkemahan Cibubur\Bumi Perkemahan Cibubur_2.jpg
+38,Istana Negara Republik Indonesia,images_output\Istana Negara Republik Indonesia\Istana Negara Republik Indonesia_0.jpg,images_output\Istana Negara Republik Indonesia\Istana Negara Republik Indonesia_1.jpg,nan
+39,Museum Macan (Modern and Contemporary Art in Nusantara),images_output\Museum Macan (Modern and Contemporary Art in Nusantara)\Museum Macan (Modern and Contemporary Art in Nusantara)_0.jpg,images_output\Museum Macan (Modern and Contemporary Art in Nusantara)\Museum Macan (Modern and Contemporary Art in Nusantara)_1.jpg,nan
+40,Galeri Nasional Indonesia,images_output\Galeri Nasional Indonesia\Galeri Nasional Indonesia_0.jpg,images_output\Galeri Nasional Indonesia\Galeri Nasional Indonesia_1.jpg,images_output\Galeri Nasional Indonesia\Galeri Nasional Indonesia_2.jpg
+41,Museum Bahari Jakarta,images_output\Museum Bahari Jakarta\Museum Bahari Jakarta_0.jpg,nan,nan
+42,Museum Seni Rupa dan Keramik,images_output\Museum Seni Rupa dan Keramik\Museum Seni Rupa dan Keramik_0.jpg,images_output\Museum Seni Rupa dan Keramik\Museum Seni Rupa dan Keramik_1.jpg,nan
+43,The Escape Hunt,images_output\The Escape Hunt\The Escape Hunt_0.jpg,nan,nan
+44,Monumen Selamat Datang,images_output\Monumen Selamat Datang\Monumen Selamat Datang_0.jpg,images_output\Monumen Selamat Datang\Monumen Selamat Datang_1.jpg,images_output\Monumen Selamat Datang\Monumen Selamat Datang_2.jpg
+45,Jakarta Aquarium dan Safari,images_output\Jakarta Aquarium dan Safari\Jakarta Aquarium dan Safari_0.jpg,images_output\Jakarta Aquarium dan Safari\Jakarta Aquarium dan Safari_1.jpg,nan
+46,Pulau Semak Daun,images_output\Pulau Semak Daun\Pulau Semak Daun_0.jpg,nan,nan
+47,Taman Situ Lembang,images_output\Taman Situ Lembang\Taman Situ Lembang_0.jpg,images_output\Taman Situ Lembang\Taman Situ Lembang_1.jpg,images_output\Taman Situ Lembang\Taman Situ Lembang_2.jpg
+48,Taman Ismail Marzuki,images_output\Taman Ismail Marzuki\Taman Ismail Marzuki_0.jpg,images_output\Taman Ismail Marzuki\Taman Ismail Marzuki_1.png,nan
+49,Galeri Indonesia Kaya,images_output\Galeri Indonesia Kaya\Galeri Indonesia Kaya_0.jpg,images_output\Galeri Indonesia Kaya\Galeri Indonesia Kaya_1.jpg,images_output\Galeri Indonesia Kaya\Galeri Indonesia Kaya_2.jpg
+50,Museum Joang 45,images_output\Museum Joang 45\Museum Joang 45_0.jpg,images_output\Museum Joang 45\Museum Joang 45_1.jpg,images_output\Museum Joang 45\Museum Joang 45_2.jpg
+51,Jakarta Planetarium,images_output\Jakarta Planetarium\Jakarta Planetarium_0.jpg,images_output\Jakarta Planetarium\Jakarta Planetarium_1.png,images_output\Jakarta Planetarium\Jakarta Planetarium_2.jpg
+52,Kampung Cina,images_output\Kampung Cina\Kampung Cina_0.jpg,images_output\Kampung Cina\Kampung Cina_1.jpg,nan
+53,Rumah Sipitung,images_output\Rumah Sipitung\Rumah Sipitung_0.jpg,images_output\Rumah Sipitung\Rumah Sipitung_1.jpg,nan
+54,Taman Agrowisata Cilangkap,images_output\Taman Agrowisata Cilangkap\Taman Agrowisata Cilangkap_0.jpg,images_output\Taman Agrowisata Cilangkap\Taman Agrowisata Cilangkap_1.jpg,nan
+55,Klenteng Jin De Yuan,images_output\Klenteng Jin De Yuan\Klenteng Jin De Yuan_0.jpg,images_output\Klenteng Jin De Yuan\Klenteng Jin De Yuan_1.jpg,nan
+56,Pantai Ancol,images_output\Pantai Ancol\Pantai Ancol_0.jpg,images_output\Pantai Ancol\Pantai Ancol_1.jpg,images_output\Pantai Ancol\Pantai Ancol_2.jpg
+57,Taman Lapangan Banteng,images_output\Taman Lapangan Banteng\Taman Lapangan Banteng_0.jpg,images_output\Taman Lapangan Banteng\Taman Lapangan Banteng_1.jpg,nan
+58,Taman Ayodya,images_output\Taman Ayodya\Taman Ayodya_0.jpg,images_output\Taman Ayodya\Taman Ayodya_1.jpg,nan
+59,Museum Sumpah Pemuda,images_output\Museum Sumpah Pemuda\Museum Sumpah Pemuda_0.jpg,nan,nan
+60,Museum Tekstil,images_output\Museum Tekstil\Museum Tekstil_0.jpg,images_output\Museum Tekstil\Museum Tekstil_1.jpg,images_output\Museum Tekstil\Museum Tekstil_2.jpg
+61,Tugu Proklamasi,images_output\Tugu Proklamasi\Tugu Proklamasi_0.jpg,images_output\Tugu Proklamasi\Tugu Proklamasi_1.jpg,images_output\Tugu Proklamasi\Tugu Proklamasi_2.jpg
+62,Taman Legenda Keong Emas,images_output\Taman Legenda Keong Emas\Taman Legenda Keong Emas_0.jpg,nan,nan
+63,Museum Kebangkitan Nasional,images_output\Museum Kebangkitan Nasional\Museum Kebangkitan Nasional_0.jpg,images_output\Museum Kebangkitan Nasional\Museum Kebangkitan Nasional_1.jpg,nan
+64,Museum Sasmita Loka Ahmad Yani,images_output\Museum Sasmita Loka Ahmad Yani\Museum Sasmita Loka Ahmad Yani_0.jpg,images_output\Museum Sasmita Loka Ahmad Yani\Museum Sasmita Loka Ahmad Yani_1.jpg,nan
+65,Museum Basoeki Abdullah,images_output\Museum Basoeki Abdullah\Museum Basoeki Abdullah_0.jpg,images_output\Museum Basoeki Abdullah\Museum Basoeki Abdullah_1.jpg,nan
+66,Museum Layang-layang,images_output\Museum Layang-layang\Museum Layang-layang_0.jpg,images_output\Museum Layang-layang\Museum Layang-layang_1.png,images_output\Museum Layang-layang\Museum Layang-layang_2.jpg
+67,Margasatwa Muara Angke,images_output\Margasatwa Muara Angke\Margasatwa Muara Angke_0.jpg,images_output\Margasatwa Muara Angke\Margasatwa Muara Angke_1.jpg,images_output\Margasatwa Muara Angke\Margasatwa Muara Angke_2.jpg
+68,Pasar Petak Sembilan,images_output\Pasar Petak Sembilan\Pasar Petak Sembilan_0.jpg,nan,images_output\Pasar Petak Sembilan\Pasar Petak Sembilan_2.jpg
+69,Freedom Library,images_output\Freedom Library\Freedom Library_0.jpg,images_output\Freedom Library\Freedom Library_1.jpg,images_output\Freedom Library\Freedom Library_2.jpg
+70,Perpustakaan Nasional,images_output\Perpustakaan Nasional\Perpustakaan Nasional_0.jpg,images_output\Perpustakaan Nasional\Perpustakaan Nasional_1.jpg,nan
+71,Cibubur Garden Diary (Cibugary),images_output\Cibubur Garden Diary (Cibugary)\Cibubur Garden Diary (Cibugary)_0.jpg,images_output\Cibubur Garden Diary (Cibugary)\Cibubur Garden Diary (Cibugary)_1.jpg,nan
+72,Waterboom PIK (Pantai Indah Kapuk),images_output\Waterboom PIK (Pantai Indah Kapuk)\Waterboom PIK (Pantai Indah Kapuk)_0.jpg,images_output\Waterboom PIK (Pantai Indah Kapuk)\Waterboom PIK (Pantai Indah Kapuk)_1.jpg,nan
+73,Museum Perangko,images_output\Museum Perangko\Museum Perangko_0.jpg,images_output\Museum Perangko\Museum Perangko_1.jpg,images_output\Museum Perangko\Museum Perangko_2.jpg
+74,Museum Tengah Kebun,images_output\Museum Tengah Kebun\Museum Tengah Kebun_0.jpg,images_output\Museum Tengah Kebun\Museum Tengah Kebun_1.jpg,images_output\Museum Tengah Kebun\Museum Tengah Kebun_2.jpg
+75,SnowBay Waterpark,images_output\SnowBay Waterpark\SnowBay Waterpark_0.jpg,images_output\SnowBay Waterpark\SnowBay Waterpark_1.jpg,nan
+76,Taman Cattleya,images_output\Taman Cattleya\Taman Cattleya_0.jpg,images_output\Taman Cattleya\Taman Cattleya_1.jpg,images_output\Taman Cattleya\Taman Cattleya_2.png
+77,Taman Hutan Tebet,images_output\Taman Hutan Tebet\Taman Hutan Tebet_0.jpg,images_output\Taman Hutan Tebet\Taman Hutan Tebet_1.jpg,images_output\Taman Hutan Tebet\Taman Hutan Tebet_2.jpg
+78,Hutan Kota Srengseng,images_output\Hutan Kota Srengseng\Hutan Kota Srengseng_0.jpg,images_output\Hutan Kota Srengseng\Hutan Kota Srengseng_1.jpg,nan
+79,Taman Spathodea,images_output\Taman Spathodea\Taman Spathodea_0.jpg,images_output\Taman Spathodea\Taman Spathodea_1.jpg,nan
+80,Plaza Indonesia,images_output\Plaza Indonesia\Plaza Indonesia_0.jpg,images_output\Plaza Indonesia\Plaza Indonesia_1.jpg,nan
+81,Mall Thamrin City,images_output\Mall Thamrin City\Mall Thamrin City_0.jpg,images_output\Mall Thamrin City\Mall Thamrin City_1.jpg,images_output\Mall Thamrin City\Mall Thamrin City_2.jpg
+82,Museum Satria Mandala,images_output\Museum Satria Mandala\Museum Satria Mandala_0.jpg,images_output\Museum Satria Mandala\Museum Satria Mandala_1.jpg,nan
+83,Alive Museum Ancol,images_output\Alive Museum Ancol\Alive Museum Ancol_0.jpg,images_output\Alive Museum Ancol\Alive Museum Ancol_1.jpg,images_output\Alive Museum Ancol\Alive Museum Ancol_2.jpg
+84,Kawasan Kuliner BSM,images_output\Kawasan Kuliner BSM\Kawasan Kuliner BSM_0.jpg,images_output\Kawasan Kuliner BSM\Kawasan Kuliner BSM_1.jpg,nan
+85,Taman Pintar Yogyakarta,images_output\Taman Pintar Yogyakarta\Taman Pintar Yogyakarta_0.png,images_output\Taman Pintar Yogyakarta\Taman Pintar Yogyakarta_1.jpg,nan
+86,Keraton Yogyakarta,images_output\Keraton Yogyakarta\Keraton Yogyakarta_0.png,images_output\Keraton Yogyakarta\Keraton Yogyakarta_1.jpg,images_output\Alun-alun Utara Keraton Yogyakarta\Alun-alun Utara Keraton Yogyakarta_2.jpg
+87,Sindu Kusuma Edupark (SKE),images_output\Sindu Kusuma Edupark (SKE)\Sindu Kusuma Edupark (SKE)_0.jpg,nan,nan
+88,Museum Benteng Vredeburg Yogyakarta,images_output\Museum Benteng Vredeburg Yogyakarta\Museum Benteng Vredeburg Yogyakarta_0.jpg,nan,nan
+89,De Mata Museum Jogja,images_output\De Mata Museum Jogja\De Mata Museum Jogja_0.jpg,images_output\De Mata Museum Jogja\De Mata Museum Jogja_1.jpg,images_output\De Mata Museum Jogja\De Mata Museum Jogja_2.jpg
+90,Kampung Wisata Taman Sari,images_output\Kampung Wisata Taman Sari\Kampung Wisata Taman Sari_0.jpg,images_output\Kampung Wisata Taman Sari\Kampung Wisata Taman Sari_1.jpg,images_output\Kampung Wisata Taman Sari\Kampung Wisata Taman Sari_2.jpg
+91,Situs Warungboto,images_output\Situs Warungboto\Situs Warungboto_0.jpg,nan,nan
+92,Nol Kilometer Jl.Malioboro,images_output\Nol Kilometer Jl.Malioboro\Nol Kilometer Jl.Malioboro_0.png,images_output\Nol Kilometer Jl.Malioboro\Nol Kilometer Jl.Malioboro_1.png,nan
+93,Gembira Loka Zoo,images_output\Gembira Loka Zoo\Gembira Loka Zoo_0.jpg,images_output\Gembira Loka Zoo\Gembira Loka Zoo_1.jpg,nan
+94,Sumur Gumuling,images_output\Sumur Gumuling\Sumur Gumuling_0.jpg,nan,nan
+95,Desa Wisata Sungai Code Jogja Kota,images_output\Desa Wisata Sungai Code Jogja Kota\Desa Wisata Sungai Code Jogja Kota_0.jpg,images_output\Desa Wisata Sungai Code Jogja Kota\Desa Wisata Sungai Code Jogja Kota_1.jpg,images_output\Desa Wisata Sungai Code Jogja Kota\Desa Wisata Sungai Code Jogja Kota_2.jpg
+96,Alun Alun Selatan Yogyakarta,images_output\Alun Alun Selatan Yogyakarta\Alun Alun Selatan Yogyakarta_0.jpg,images_output\Alun Alun Selatan Yogyakarta\Alun Alun Selatan Yogyakarta_1.jpg,images_output\Alun Alun Selatan Yogyakarta\Alun Alun Selatan Yogyakarta_2.jpg
+97,Monumen Yogya Kembali,images_output\Monumen Yogya Kembali\Monumen Yogya Kembali_0.jpg,images_output\Monumen Yogya Kembali\Monumen Yogya Kembali_1.jpg,nan
+98,Taman Pelangi Yogyakarta,images_output\Taman Pelangi Yogyakarta\Taman Pelangi Yogyakarta_0.jpg,nan,nan
+99,Kampung Wisata Kadipaten,images_output\Kampung Wisata Kadipaten\Kampung Wisata Kadipaten_0.jpg,images_output\Kampung Wisata Kadipaten\Kampung Wisata Kadipaten_1.jpg,nan
+100,Taman Budaya Yogyakarta,images_output\Taman Budaya Yogyakarta\Taman Budaya Yogyakarta_0.jpg,images_output\Taman Budaya Yogyakarta\Taman Budaya Yogyakarta_1.jpg,images_output\Taman Budaya Yogyakarta\Taman Budaya Yogyakarta_2.jpg
+101,Kampung Wisata Sosro Menduran,images_output\Kampung Wisata Sosro Menduran\Kampung Wisata Sosro Menduran_0.jpg,images_output\Kampung Wisata Sosro Menduran\Kampung Wisata Sosro Menduran_1.jpg,images_output\Kampung Wisata Sosro Menduran\Kampung Wisata Sosro Menduran_2.jpg
+102,Monumen Batik Yogyakarta,images_output\Monumen Batik Yogyakarta\Monumen Batik Yogyakarta_0.jpg,nan,nan
+103,Tugu Pal Putih Jogja,images_output\Tugu Pal Putih Jogja\Tugu Pal Putih Jogja_0.jpg,images_output\Tugu Pal Putih Jogja\Tugu Pal Putih Jogja_1.jpg,nan
+104,Tebing Breksi,images_output\Tebing Breksi\Tebing Breksi_0.jpg,images_output\Tebing Breksi\Tebing Breksi_1.jpg,nan
+105,Candi Donotirto,images_output\Candi Donotirto\Candi Donotirto_0.jpg,images_output\Candi Donotirto\Candi Donotirto_1.jpg,nan
+106,Kawasan Malioboro,images_output\Kawasan Malioboro\Kawasan Malioboro_0.jpg,images_output\Kawasan Malioboro\Kawasan Malioboro_1.jpg,images_output\Kawasan Malioboro\Kawasan Malioboro_2.jpg
+107,Bangsal Pagelaran,images_output\Bangsal Pagelaran\Bangsal Pagelaran_0.jpg,images_output\Bangsal Pagelaran\Bangsal Pagelaran_1.jpg,images_output\Bangsal Pagelaran\Bangsal Pagelaran_2.jpg
+108,Embung Tambakboyo,images_output\Embung Tambakboyo\Embung Tambakboyo_0.jpg,images_output\Embung Tambakboyo\Embung Tambakboyo_1.jpg,nan
+109,Hutan Pinus Pengger,images_output\Hutan Pinus Pengger\Hutan Pinus Pengger_0.jpg,images_output\Hutan Pinus Pengger\Hutan Pinus Pengger_1.jpg,images_output\Hutan Pinus Pengger\Hutan Pinus Pengger_2.jpg
+110,Monumen Serangan Umum 1 Maret,images_output\Monumen Serangan Umum 1 Maret\Monumen Serangan Umum 1 Maret_0.jpg,nan,nan
+111,Puncak Pinus Becici,images_output\Puncak Pinus Becici\Puncak Pinus Becici_0.jpg,images_output\Puncak Pinus Becici\Puncak Pinus Becici_1.jpg,nan
+112,Bukit Bintang Yogyakarta,images_output\Bukit Bintang Yogyakarta\Bukit Bintang Yogyakarta_0.png,images_output\Bukit Bintang Yogyakarta\Bukit Bintang Yogyakarta_1.jpg,nan
+113,Gedung Agung Yogyakarta,images_output\Gedung Agung Yogyakarta\Gedung Agung Yogyakarta_0.jpg,images_output\Gedung Agung Yogyakarta\Gedung Agung Yogyakarta_1.jpg,nan
+114,The Lost World Castle,images_output\The Lost World Castle\The Lost World Castle_0.jpg,images_output\The Lost World Castle\The Lost World Castle_1.jpg,nan
+115,Monumen Sanapati,images_output\Monumen Sanapati\Monumen Sanapati_0.jpg,images_output\Monumen Sanapati\Monumen Sanapati_1.jpg,images_output\Monumen Sanapati\Monumen Sanapati_2.jpg
+116,Jurang Tembelan Kanigoro,images_output\Jurang Tembelan Kanigoro\Jurang Tembelan Kanigoro_0.jpg,images_output\Jurang Tembelan Kanigoro\Jurang Tembelan Kanigoro_1.jpg,images_output\Jurang Tembelan Kanigoro\Jurang Tembelan Kanigoro_2.jpg
+117,The World Landmarks - Merapi Park Yogyakarta,images_output\The World Landmarks - Merapi Park Yogyakarta\The World Landmarks - Merapi Park Yogyakarta_0.jpg,nan,nan
+118,Museum Sonobudoyo Unit I,images_output\Museum Sonobudoyo Unit I\Museum Sonobudoyo Unit I_0.jpg,images_output\Museum Sonobudoyo Unit I\Museum Sonobudoyo Unit I_1.jpg,images_output\Museum Sonobudoyo Unit I\Museum Sonobudoyo Unit I_2.jpg
+119,Lava Bantal,images_output\Lava Bantal\Lava Bantal_0.jpg,images_output\Lava Bantal\Lava Bantal_1.jpg,images_output\Lava Bantal\Lava Bantal_2.jpg
+120,Bukit Panguk Kediwung,images_output\Bukit Panguk Kediwung\Bukit Panguk Kediwung_0.jpg,images_output\Bukit Panguk Kediwung\Bukit Panguk Kediwung_1.jpg,images_output\Bukit Panguk Kediwung\Bukit Panguk Kediwung_2.jpg
+121,Candi Prambanan,images_output\Candi Prambanan\Candi Prambanan_0.jpg,images_output\Candi Prambanan\Candi Prambanan_1.jpg,images_output\Candi Prambanan\Candi Prambanan_2.jpg
+122,Watu Goyang,images_output\Watu Goyang\Watu Goyang_0.jpg,nan,nan
+123,Kampung Wisata Rejowinangun,images_output\Kampung Wisata Rejowinangun\Kampung Wisata Rejowinangun_0.jpg,images_output\Kampung Wisata Rejowinangun\Kampung Wisata Rejowinangun_1.jpg,nan
+124,Kauman Pakualaman Yogyakarta,images_output\Kauman Pakualaman Yogyakarta\Kauman Pakualaman Yogyakarta_0.jpg,nan,nan
+125,Alun-alun Utara Keraton Yogyakarta,images_output\Alun-alun Utara Keraton Yogyakarta\Alun-alun Utara Keraton Yogyakarta_0.jpg,images_output\Alun-alun Utara Keraton Yogyakarta\Alun-alun Utara Keraton Yogyakarta_1.jpg,images_output\Alun-alun Utara Keraton Yogyakarta\Alun-alun Utara Keraton Yogyakarta_2.jpg
+126,Pantai Goa Cemara,images_output\Pantai Goa Cemara\Pantai Goa Cemara_0.jpg,nan,nan
+127,Blue Lagoon Jogja,images_output\Blue Lagoon Jogja\Blue Lagoon Jogja_0.jpg,images_output\Blue Lagoon Jogja\Blue Lagoon Jogja_1.jpg,images_output\Blue Lagoon Jogja\Blue Lagoon Jogja_2.jpg
+128,Gumuk Pasir Parangkusumo,images_output\Gumuk Pasir Parangkusumo\Gumuk Pasir Parangkusumo_0.jpg,images_output\Gumuk Pasir Parangkusumo\Gumuk Pasir Parangkusumo_1.jpg,images_output\Gumuk Pasir Parangkusumo\Gumuk Pasir Parangkusumo_2.jpg
+129,Bukit Lintang Sewu,images_output\Bukit Lintang Sewu\Bukit Lintang Sewu_0.jpg,images_output\Bukit Lintang Sewu\Bukit Lintang Sewu_1.jpg,images_output\Bukit Lintang Sewu\Bukit Lintang Sewu_2.jpg
+130,Studio Alam Gamplong,images_output\Studio Alam Gamplong\Studio Alam Gamplong_0.jpg,images_output\Studio Alam Gamplong\Studio Alam Gamplong_1.jpg,nan
+131,Watu Lumbung,images_output\Watu Lumbung\Watu Lumbung_0.jpg,images_output\Watu Lumbung\Watu Lumbung_1.jpg,images_output\Watu Lumbung\Watu Lumbung_2.jpg
+132,Air Terjun Kedung Pedut,images_output\Air Terjun Kedung Pedut\Air Terjun Kedung Pedut_0.jpg,images_output\Air Terjun Kedung Pedut\Air Terjun Kedung Pedut_1.jpg,images_output\Air Terjun Kedung Pedut\Air Terjun Kedung Pedut_2.jpg
+133,Puncak Kebun Buah Mangunan,images_output\Puncak Kebun Buah Mangunan\Puncak Kebun Buah Mangunan_0.jpg,images_output\Puncak Kebun Buah Mangunan\Puncak Kebun Buah Mangunan_1.jpg,images_output\Puncak Kebun Buah Mangunan\Puncak Kebun Buah Mangunan_2.jpg
+134,Desa Wisata Gamplong,images_output\Desa Wisata Gamplong\Desa Wisata Gamplong_0.jpg,images_output\Desa Wisata Gamplong\Desa Wisata Gamplong_1.jpg,images_output\Desa Wisata Gamplong\Desa Wisata Gamplong_2.jpg
+135,Kawasan Wisata Sosrowijayan,images_output\Kawasan Wisata Sosrowijayan\Kawasan Wisata Sosrowijayan_0.jpg,images_output\Kawasan Wisata Sosrowijayan\Kawasan Wisata Sosrowijayan_1.jpg,nan
+136,Grojogan Watu Purbo Bangunrejo,images_output\Grojogan Watu Purbo Bangunrejo\Grojogan Watu Purbo Bangunrejo_0.jpg,images_output\Grojogan Watu Purbo Bangunrejo\Grojogan Watu Purbo Bangunrejo_1.jpg,images_output\Grojogan Watu Purbo Bangunrejo\Grojogan Watu Purbo Bangunrejo_2.jpg
+137,Wisata Alam Kalibiru,images_output\Wisata Alam Kalibiru\Wisata Alam Kalibiru_0.jpg,nan,nan
+138,Jogja Exotarium,images_output\Jogja Exotarium\Jogja Exotarium_0.jpg,images_output\Jogja Exotarium\Jogja Exotarium_1.jpg,images_output\Jogja Exotarium\Jogja Exotarium_2.jpg
+139,Puncak Gunung Api Purba - Nglanggeran,images_output\Puncak Gunung Api Purba - Nglanggeran\Puncak Gunung Api Purba - Nglanggeran_0.jpg,images_output\Puncak Gunung Api Purba - Nglanggeran\Puncak Gunung Api Purba - Nglanggeran_1.jpg,nan
+140,Bendung Lepen,images_output\Bendung Lepen\Bendung Lepen_0.jpg,images_output\Bendung Lepen\Bendung Lepen_1.jpg,images_output\Bendung Lepen\Bendung Lepen_2.png
+141,Bunker Kaliadem Merapi,images_output\Bunker Kaliadem Merapi\Bunker Kaliadem Merapi_0.jpg,images_output\Bunker Kaliadem Merapi\Bunker Kaliadem Merapi_1.jpg,images_output\Bunker Kaliadem Merapi\Bunker Kaliadem Merapi_2.jpg
+142,Ledok Sambi,images_output\Ledok Sambi\Ledok Sambi_0.jpg,images_output\Ledok Sambi\Ledok Sambi_1.jpg,images_output\Ledok Sambi\Ledok Sambi_2.jpg
+143,Seribu Batu Songgo Langit,images_output\Seribu Batu Songgo Langit\Seribu Batu Songgo Langit_0.jpg,nan,nan
+144,Goa Jomblang,images_output\Goa Jomblang\Goa Jomblang_0.jpg,images_output\Goa Jomblang\Goa Jomblang_1.jpg,images_output\Goa Jomblang\Goa Jomblang_2.png
+145,Desa Wisata Rumah Domes Teletubbies,images_output\Desa Wisata Rumah Domes Teletubbies\Desa Wisata Rumah Domes Teletubbies_0.jpg,images_output\Desa Wisata Rumah Domes Teletubbies\Desa Wisata Rumah Domes Teletubbies_1.jpg,images_output\Desa Wisata Rumah Domes Teletubbies\Desa Wisata Rumah Domes Teletubbies_2.jpg
+146,Bukit Wisata Pulepayung,images_output\Bukit Wisata Pulepayung\Bukit Wisata Pulepayung_0.jpg,images_output\Bukit Wisata Pulepayung\Bukit Wisata Pulepayung_1.jpg,nan
+147,Bentara Budaya Yogyakarta (BBY),images_output\Bentara Budaya Yogyakarta (BBY)\Bentara Budaya Yogyakarta (BBY)_0.jpg,nan,images_output\Bentara Budaya Yogyakarta (BBY)\Bentara Budaya Yogyakarta (BBY)_2.jpg
+148,Goa Rancang Kencono,images_output\Goa Rancang Kencono\Goa Rancang Kencono_0.jpg,images_output\Goa Rancang Kencono\Goa Rancang Kencono_1.png,nan
+149,Goa Cerme,images_output\Goa Cerme\Goa Cerme_0.jpg,images_output\Goa Cerme\Goa Cerme_1.jpg,images_output\Goa Cerme\Goa Cerme_2.jpg
+150,Wisata Kraton Jogja,images_output\Wisata Kraton Jogja\Wisata Kraton Jogja_0.jpg,images_output\Wisata Kraton Jogja\Wisata Kraton Jogja_1.jpg,nan
+151,Desa Wisata Kelor,images_output\Desa Wisata Kelor\Desa Wisata Kelor_0.jpg,nan,nan
+152,Pantai Patihan,images_output\Pantai Patihan\Pantai Patihan_0.jpg,nan,nan
+153,Pantai Kukup,images_output\Pantai Kukup\Pantai Kukup_0.jpg,images_output\Pantai Kukup\Pantai Kukup_1.jpg,images_output\Pantai Kukup\Pantai Kukup_2.jpg
+154,Pantai Ngrawe (Mesra),images_output\Pantai Ngrawe (Mesra)\Pantai Ngrawe (Mesra)_0.jpg,images_output\Pantai Ngrawe (Mesra)\Pantai Ngrawe (Mesra)_1.png,nan
+155,Pantai Ngobaran,images_output\Pantai Ngobaran\Pantai Ngobaran_0.jpg,nan,nan
+156,Pantai Pulang Sawal,images_output\Pantai Pulang Sawal\Pantai Pulang Sawal_0.jpg,images_output\Pantai Pulang Sawal\Pantai Pulang Sawal_1.jpg,nan
+157,Pantai Baron,images_output\Pantai Baron\Pantai Baron_0.jpg,images_output\Pantai Baron\Pantai Baron_1.jpg,nan
+158,Pantai Pok Tunggal,images_output\Pantai Pok Tunggal\Pantai Pok Tunggal_0.jpg,images_output\Pantai Pok Tunggal\Pantai Pok Tunggal_1.jpg,nan
+159,Hutan Pinus Asri,images_output\Hutan Pinus Asri\Hutan Pinus Asri_0.jpg,images_output\Hutan Pinus Asri\Hutan Pinus Asri_1.jpg,images_output\Hutan Pinus Asri\Hutan Pinus Asri_2.jpg
+160,Pasar Kebon Empring Bintaran,images_output\Pasar Kebon Empring Bintaran\Pasar Kebon Empring Bintaran_0.jpg,nan,nan
+161,"Bukit Paralayang, Watugupit","images_output\Bukit Paralayang, Watugupit\Bukit Paralayang, Watugupit_0.jpg","images_output\Bukit Paralayang, Watugupit\Bukit Paralayang, Watugupit_1.jpg","images_output\Bukit Paralayang, Watugupit\Bukit Paralayang, Watugupit_2.jpg"
+162,Kampung Wisata Dipowinatan,images_output\Kampung Wisata Dipowinatan\Kampung Wisata Dipowinatan_0.jpg,images_output\Kampung Wisata Dipowinatan\Kampung Wisata Dipowinatan_1.jpg,nan
+163,Watu Mabur Mangunan,images_output\Watu Mabur Mangunan\Watu Mabur Mangunan_0.jpg,images_output\Watu Mabur Mangunan\Watu Mabur Mangunan_1.jpg,nan
+164,Pintoe Langit Dahromo,images_output\Pintoe Langit Dahromo\Pintoe Langit Dahromo_0.jpg,images_output\Pintoe Langit Dahromo\Pintoe Langit Dahromo_1.jpg,images_output\Pintoe Langit Dahromo\Pintoe Langit Dahromo_2.jpg
+165,Green Village Gedangsari,images_output\Green Village Gedangsari\Green Village Gedangsari_0.jpg,images_output\Green Village Gedangsari\Green Village Gedangsari_1.jpg,nan
+166,Kebun Teh Nglinggo,images_output\Kebun Teh Nglinggo\Kebun Teh Nglinggo_0.jpg,images_output\Kebun Teh Nglinggo\Kebun Teh Nglinggo_1.jpg,images_output\Kebun Teh Nglinggo\Kebun Teh Nglinggo_2.jpg
+167,Geoforest Watu Payung Turunan,images_output\Geoforest Watu Payung Turunan\Geoforest Watu Payung Turunan_0.jpg,images_output\Geoforest Watu Payung Turunan\Geoforest Watu Payung Turunan_1.jpg,images_output\Geoforest Watu Payung Turunan\Geoforest Watu Payung Turunan_2.jpg
+168,Pantai Timang,images_output\Pantai Timang\Pantai Timang_0.jpg,images_output\Pantai Timang\Pantai Timang_1.jpg,nan
+169,Puncak Segoro,images_output\Puncak Segoro\Puncak Segoro_0.jpg,images_output\Puncak Segoro\Puncak Segoro_1.jpg,nan
+170,Candi Borobudur,images_output\Candi Borobudur\Candi Borobudur_0.jpg,images_output\Candi Borobudur\Candi Borobudur_1.jpg,images_output\Candi Borobudur\Candi Borobudur_2.jpg
+171,Candi Ijo,images_output\Candi Ijo\Candi Ijo_0.jpg,images_output\Candi Ijo\Candi Ijo_1.jpg,nan
+172,Pantai Indrayanti,images_output\Pantai Indrayanti\Pantai Indrayanti_0.jpg,images_output\Pantai Indrayanti\Pantai Indrayanti_1.png,nan
+173,Pantai Nglambor,images_output\Pantai Nglambor\Pantai Nglambor_0.jpg,nan,nan
+174,Pasar Beringharjo,images_output\Pasar Beringharjo\Pasar Beringharjo_0.jpg,nan,nan
+175,Museum Ullen Sentalu,images_output\Museum Ullen Sentalu\Museum Ullen Sentalu_0.jpg,images_output\Museum Ullen Sentalu\Museum Ullen Sentalu_1.jpg,images_output\Museum Ullen Sentalu\Museum Ullen Sentalu_2.jpg
+176,Museum Gunung Merapi,images_output\Museum Gunung Merapi\Museum Gunung Merapi_0.jpg,images_output\Museum Gunung Merapi\Museum Gunung Merapi_1.jpg,nan
+177,Pantai Parangtritis,images_output\Pantai Parangtritis\Pantai Parangtritis_0.jpg,nan,nan
+178,Goa Pindul,images_output\Goa Pindul\Goa Pindul_0.jpg,images_output\Goa Pindul\Goa Pindul_1.jpg,images_output\Goa Pindul\Goa Pindul_2.jpg
+179,Candi Ratu Boko,images_output\Candi Ratu Boko\Candi Ratu Boko_0.jpg,images_output\Candi Ratu Boko\Candi Ratu Boko_1.png,images_output\Candi Ratu Boko\Candi Ratu Boko_2.jpg
+180,Pantai Depok Jogja,images_output\Pantai Depok Jogja\Pantai Depok Jogja_0.jpg,images_output\Pantai Depok Jogja\Pantai Depok Jogja_1.jpg,nan
+181,Pantai Sundak,images_output\Pantai Sundak\Pantai Sundak_0.jpg,images_output\Pantai Sundak\Pantai Sundak_1.jpg,images_output\Pantai Sundak\Pantai Sundak_2.jpg
+182,Hutan Mangrove Kulon Progo,images_output\Hutan Mangrove Kulon Progo\Hutan Mangrove Kulon Progo_0.jpg,images_output\Hutan Mangrove Kulon Progo\Hutan Mangrove Kulon Progo_1.jpg,nan
+183,Jogja Bay Pirates Adventure Waterpark,images_output\Jogja Bay Pirates Adventure Waterpark\Jogja Bay Pirates Adventure Waterpark_0.jpg,images_output\Jogja Bay Pirates Adventure Waterpark\Jogja Bay Pirates Adventure Waterpark_1.jpg,images_output\Jogja Bay Pirates Adventure Waterpark\Jogja Bay Pirates Adventure Waterpark_2.jpg
+184,Pantai Sepanjang,images_output\Pantai Sepanjang\Pantai Sepanjang_0.jpg,nan,nan
+185,Pantai Krakal,images_output\Pantai Krakal\Pantai Krakal_0.jpg,images_output\Pantai Krakal\Pantai Krakal_1.jpg,nan
+186,Pantai Glagah,images_output\Pantai Glagah\Pantai Glagah_0.jpg,images_output\Pantai Glagah\Pantai Glagah_1.jpg,nan
+187,Pantai Siung,images_output\Pantai Siung\Pantai Siung_0.jpg,images_output\Pantai Siung\Pantai Siung_1.jpg,images_output\Pantai Siung\Pantai Siung_2.jpg
+188,Pantai Sadranan,images_output\Pantai Sadranan\Pantai Sadranan_0.png,images_output\Pantai Sadranan\Pantai Sadranan_1.jpg,nan
+189,Pantai Nguluran,images_output\Pantai Nguluran\Pantai Nguluran_0.jpg,images_output\Pantai Nguluran\Pantai Nguluran_1.jpg,nan
+190,Pantai Samas,images_output\Pantai Samas\Pantai Samas_0.jpg,nan,nan
+191,Pantai Drini,images_output\Pantai Drini\Pantai Drini_0.jpg,images_output\Pantai Drini\Pantai Drini_1.jpg,nan
+192,Air Terjun Sri Gethuk,images_output\Air Terjun Sri Gethuk\Air Terjun Sri Gethuk_0.jpg,images_output\Air Terjun Sri Gethuk\Air Terjun Sri Gethuk_1.jpg,images_output\Air Terjun Sri Gethuk\Air Terjun Sri Gethuk_2.jpg
+193,Candi Sewu,images_output\Candi Sewu\Candi Sewu_0.jpg,images_output\Candi Sewu\Candi Sewu_1.jpg,nan
+194,Pantai Wediombo,images_output\Pantai Wediombo\Pantai Wediombo_0.jpg,images_output\Pantai Wediombo\Pantai Wediombo_1.jpg,images_output\Pantai Wediombo\Pantai Wediombo_2.jpg
+195,Pantai Jogan,images_output\Pantai Jogan\Pantai Jogan_0.jpg,images_output\Pantai Jogan\Pantai Jogan_1.jpg,nan
+196,Pantai Ngrenehan,images_output\Pantai Ngrenehan\Pantai Ngrenehan_0.jpg,nan,nan
+197,Pantai Jungwok,images_output\Pantai Jungwok\Pantai Jungwok_0.jpg,images_output\Pantai Jungwok\Pantai Jungwok_1.jpg,nan
+198,Pantai Greweng,images_output\Pantai Greweng\Pantai Greweng_0.jpg,images_output\Pantai Greweng\Pantai Greweng_1.jpg,nan
+199,Pantai Sedahan,images_output\Pantai Sedahan\Pantai Sedahan_0.jpg,images_output\Pantai Sedahan\Pantai Sedahan_1.png,images_output\Pantai Sedahan\Pantai Sedahan_2.jpg
+200,Pantai Watu Kodok,images_output\Pantai Watu Kodok\Pantai Watu Kodok_0.jpg,images_output\Pantai Watu Kodok\Pantai Watu Kodok_1.jpg,images_output\Pantai Watu Kodok\Pantai Watu Kodok_2.jpg
+201,Pantai Kesirat,images_output\Pantai Kesirat\Pantai Kesirat_0.jpg,nan,nan
+202,Pantai Ngandong,images_output\Pantai Ngandong\Pantai Ngandong_0.jpg,images_output\Pantai Ngandong\Pantai Ngandong_1.jpg,nan
+203,Galaxy Waterpark Jogja,images_output\Galaxy Waterpark Jogja\Galaxy Waterpark Jogja_0.jpg,images_output\Galaxy Waterpark Jogja\Galaxy Waterpark Jogja_1.jpg,nan
+204,Desa Wisata Pulesari,images_output\Desa Wisata Pulesari\Desa Wisata Pulesari_0.jpg,images_output\Desa Wisata Pulesari\Desa Wisata Pulesari_1.jpg,nan
+205,Desa Wisata Tembi,images_output\Desa Wisata Tembi\Desa Wisata Tembi_0.jpg,images_output\Desa Wisata Tembi\Desa Wisata Tembi_1.jpg,images_output\Desa Wisata Tembi\Desa Wisata Tembi_2.jpg
+206,Wisata Kaliurang,images_output\Wisata Kaliurang\Wisata Kaliurang_0.jpg,nan,nan
+207,Heha Sky View,images_output\Heha Sky View\Heha Sky View_0.jpg,images_output\Heha Sky View\Heha Sky View_1.jpg,images_output\Heha Sky View\Heha Sky View_2.jpg
+208,Taman Sungai Mudal,images_output\Taman Sungai Mudal\Taman Sungai Mudal_0.jpg,images_output\Taman Sungai Mudal\Taman Sungai Mudal_1.jpg,nan
+209,Pantai Sanglen,images_output\Pantai Sanglen\Pantai Sanglen_0.jpg,images_output\Pantai Sanglen\Pantai Sanglen_1.jpg,images_output\Pantai Sanglen\Pantai Sanglen_2.jpg
+210,Pantai Congot,images_output\Pantai Congot\Pantai Congot_0.jpg,nan,nan
+211,GunungTangkuban perahu,images_output\GunungTangkuban perahu\GunungTangkuban perahu_0.png,nan,nan
+212,Jalan Braga,images_output\Jalan Braga\Jalan Braga_0.jpg,images_output\Jalan Braga\Jalan Braga_1.jpg,nan
+213,Gedung Sate,images_output\Museum Gedung Sate\Museum Gedung Sate_0.jpg,images_output\Museum Gedung Sate\Museum Gedung Sate_1.jpg,images_output\Museum Gedung Sate\Museum Gedung Sate_2.jpg
+214,Trans Studio Bandung,images_output\Trans Studio Bandung\Trans Studio Bandung_0.jpg,images_output\Masjid Agung Trans Studio Bandung\Masjid Agung Trans Studio Bandung_1.jpg,nan
+215,Taman Hutan Raya Ir. H. Djuanda,images_output\Taman Hutan Raya Ir. H. Djuanda\Taman Hutan Raya Ir. H. Djuanda_0.jpg,images_output\Taman Hutan Raya Ir. H. Djuanda\Taman Hutan Raya Ir. H. Djuanda_1.png,nan
+216,Farm House Susu Lembang,images_output\Farm House Susu Lembang\Farm House Susu Lembang_0.jpg,images_output\Farm House Susu Lembang\Farm House Susu Lembang_1.jpg,nan
+217,Kebun Binatang Bandung,images_output\Kebun Binatang Bandung\Kebun Binatang Bandung_0.jpg,nan,nan
+218,Kawah Putih,images_output\Kawah Putih\Kawah Putih_0.jpg,images_output\Kawah Putih\Kawah Putih_1.jpg,nan
+219,Tebing Karaton,images_output\Tebing Karaton\Tebing Karaton_0.png,nan,nan
+220,Dusun Bambu,images_output\Dusun Bambu\Dusun Bambu_0.jpg,images_output\Dusun Bambu\Dusun Bambu_1.jpg,images_output\Dusun Bambu\Dusun Bambu_2.jpg
+221,Museum Geologi Bandung,images_output\Museum Geologi Bandung\Museum Geologi Bandung_0.jpg,images_output\Museum Geologi Bandung\Museum Geologi Bandung_1.jpg,nan
+222,Museum Konferensi Asia Afrika,images_output\Museum Konferensi Asia Afrika\Museum Konferensi Asia Afrika_0.jpg,nan,nan
+223,Masjid Raya Bandung,images_output\Masjid Raya Bandung\Masjid Raya Bandung_0.jpg,images_output\Masjid Raya Bandung\Masjid Raya Bandung_1.jpg,nan
+224,Dago Dreampark,images_output\Dago Dreampark\Dago Dreampark_0.jpg,images_output\Dago Dreampark\Dago Dreampark_1.jpg,nan
+225,Orchid Forest Cikole,images_output\Orchid Forest Cikole\Orchid Forest Cikole_0.jpg,images_output\Orchid Forest Cikole\Orchid Forest Cikole_1.jpg,nan
+226,Kawasan Punclut,images_output\Kawasan Punclut\Kawasan Punclut_0.png,images_output\Kawasan Punclut\Kawasan Punclut_1.jpg,images_output\Kawasan Punclut\Kawasan Punclut_2.jpg
+227,Alun-Alun Kota Bandung,images_output\Alun-Alun Kota Bandung\Alun-Alun Kota Bandung_0.jpg,images_output\Alun-Alun Kota Bandung\Alun-Alun Kota Bandung_1.jpg,images_output\Alun-Alun Kota Bandung\Alun-Alun Kota Bandung_2.jpg
+228,Museum Sri Baduga,images_output\Museum Sri Baduga\Museum Sri Baduga_0.jpg,images_output\Museum Sri Baduga\Museum Sri Baduga_1.jpg,nan
+229,Rabbit Town,images_output\Rabbit Town\Rabbit Town_0.jpg,nan,nan
+230,Stone Garden Citatah,images_output\Stone Garden Citatah\Stone Garden Citatah_0.jpg,images_output\Stone Garden Citatah\Stone Garden Citatah_1.png,nan
+231,The Great Asia Africa,images_output\The Great Asia Africa\The Great Asia Africa_0.jpg,images_output\The Great Asia Africa\The Great Asia Africa_1.jpg,nan
+232,Bukit Moko,images_output\Bukit Moko\Bukit Moko_0.jpg,images_output\Bukit Moko\Bukit Moko_1.jpg,nan
+233,Gunung Papandayan,images_output\Gunung Papandayan\Gunung Papandayan_0.jpg,images_output\Gunung Papandayan\Gunung Papandayan_1.png,images_output\Gunung Papandayan\Gunung Papandayan_2.jpg
+234,Amazing Art World,images_output\Amazing Art World\Amazing Art World_0.jpg,images_output\Amazing Art World\Amazing Art World_1.jpg,nan
+235,Gua Belanda,images_output\Gua Belanda\Gua Belanda_0.jpg,images_output\Gua Belanda\Gua Belanda_1.jpg,nan
+236,Taman Balai Kota Bandung,images_output\Taman Balai Kota Bandung\Taman Balai Kota Bandung_0.jpg,images_output\Taman Balai Kota Bandung\Taman Balai Kota Bandung_1.jpg,nan
+237,Panghegar Waterboom Bandung,images_output\Panghegar Waterboom Bandung\Panghegar Waterboom Bandung_0.png,nan,nan
+238,Gunung Manglayang,images_output\Gunung Manglayang\Gunung Manglayang_0.jpg,images_output\Gunung Manglayang\Gunung Manglayang_1.jpg,images_output\Gunung Manglayang\Gunung Manglayang_2.jpg
+239,Lembang Park & Zoo,images_output\Lembang Park & Zoo\Lembang Park & Zoo_0.jpg,images_output\Lembang Park & Zoo\Lembang Park & Zoo_1.jpg,nan
+240,Taman Lalu Lintas Ade Irma Suryani Nasution,images_output\Taman Lalu Lintas Ade Irma Suryani Nasution\Taman Lalu Lintas Ade Irma Suryani Nasution_0.jpg,images_output\Taman Lalu Lintas Ade Irma Suryani Nasution\Taman Lalu Lintas Ade Irma Suryani Nasution_1.jpg,nan
+241,Lawangwangi Creative Space,images_output\Lawangwangi Creative Space\Lawangwangi Creative Space_0.jpg,images_output\Lawangwangi Creative Space\Lawangwangi Creative Space_1.jpg,nan
+242,Curug Dago,images_output\Curug Dago\Curug Dago_0.jpg,nan,nan
+243,Kampung Korea Bandung,images_output\Kampung Korea Bandung\Kampung Korea Bandung_0.jpg,nan,nan
+244,Kampung Batu Malakasari,images_output\Kampung Batu Malakasari\Kampung Batu Malakasari_0.png,images_output\Kampung Batu Malakasari\Kampung Batu Malakasari_1.jpg,nan
+245,Jendela Alam,images_output\Jendela Alam\Jendela Alam_0.jpg,images_output\Jendela Alam\Jendela Alam_1.jpg,images_output\Jendela Alam\Jendela Alam_2.jpg
+246,Curug Tilu Leuwi Opat,images_output\Curug Tilu Leuwi Opat\Curug Tilu Leuwi Opat_0.jpg,images_output\Curug Tilu Leuwi Opat\Curug Tilu Leuwi Opat_1.jpg,nan
+247,Kiara Artha Park,images_output\Kiara Artha Park\Kiara Artha Park_0.jpg,images_output\Kiara Artha Park\Kiara Artha Park_1.jpg,nan
+248,NuArt Sculpture Park,images_output\NuArt Sculpture Park\NuArt Sculpture Park_0.jpg,images_output\NuArt Sculpture Park\NuArt Sculpture Park_1.jpg,images_output\NuArt Sculpture Park\NuArt Sculpture Park_2.jpg
+249,Upside Down World Bandung,images_output\Upside Down World Bandung\Upside Down World Bandung_0.jpg,images_output\Upside Down World Bandung\Upside Down World Bandung_1.jpg,images_output\Upside Down World Bandung\Upside Down World Bandung_2.jpg
+250,Pesona Nirwana Waterpark & Cottages,images_output\Pesona Nirwana Waterpark & Cottages\Pesona Nirwana Waterpark & Cottages_0.jpg,nan,nan
+251,Taman Lansia,images_output\Taman Lansia\Taman Lansia_0.jpg,images_output\Taman Lansia\Taman Lansia_1.jpg,nan
+252,Kampoeng Tulip,images_output\Kampoeng Tulip\Kampoeng Tulip_0.jpg,images_output\Kampoeng Tulip\Kampoeng Tulip_1.jpg,nan
+253,Selasar Sunaryo Art Space,images_output\Selasar Sunaryo Art Space\Selasar Sunaryo Art Space_0.jpg,nan,nan
+254,Teras Cikapundung BBWS,images_output\Teras Cikapundung BBWS\Teras Cikapundung BBWS_0.jpg,nan,nan
+255,Museum Barli,images_output\Museum Barli\Museum Barli_0.png,images_output\Museum Barli\Museum Barli_1.jpg,nan
+256,Wisata Batu Kuda,images_output\Wisata Batu Kuda\Wisata Batu Kuda_0.jpg,images_output\Wisata Batu Kuda\Wisata Batu Kuda_1.jpg,images_output\Wisata Batu Kuda\Wisata Batu Kuda_2.jpg
+257,Monumen Bandung Lautan Api,images_output\Monumen Bandung Lautan Api\Monumen Bandung Lautan Api_0.jpg,images_output\Monumen Bandung Lautan Api\Monumen Bandung Lautan Api_1.jpg,nan
+258,Museum Gedung Sate,images_output\Museum Gedung Sate\Museum Gedung Sate_0.jpg,images_output\Museum Gedung Sate\Museum Gedung Sate_1.jpg,images_output\Museum Gedung Sate\Museum Gedung Sate_2.jpg
+259,Monumen Perjuangan Rakyat Jawa Barat,images_output\Monumen Perjuangan Rakyat Jawa Barat\Monumen Perjuangan Rakyat Jawa Barat_0.png,images_output\Monumen Perjuangan Rakyat Jawa Barat\Monumen Perjuangan Rakyat Jawa Barat_1.jpg,nan
+260,Museum Pos Indonesia,images_output\Museum Pos Indonesia\Museum Pos Indonesia_0.jpg,images_output\Museum Pos Indonesia\Museum Pos Indonesia_1.png,images_output\Museum Pos Indonesia\Museum Pos Indonesia_2.jpg
+261,Ciwangun Indah Camp Official,images_output\Ciwangun Indah Camp Official\Ciwangun Indah Camp Official_0.jpg,images_output\Ciwangun Indah Camp Official\Ciwangun Indah Camp Official_1.jpg,images_output\Ciwangun Indah Camp Official\Ciwangun Indah Camp Official_2.jpg
+262,Wot Batu,images_output\Wot Batu\Wot Batu_0.jpg,images_output\Wot Batu\Wot Batu_1.jpg,nan
+263,Curug Batu Templek,images_output\Curug Batu Templek\Curug Batu Templek_0.jpg,images_output\Curug Batu Templek\Curug Batu Templek_1.png,nan
+264,Gereja Katedral Santo Petrus Bandung,images_output\Gereja Katedral Santo Petrus Bandung\Gereja Katedral Santo Petrus Bandung_0.jpg,images_output\Gereja Katedral Santo Petrus Bandung\Gereja Katedral Santo Petrus Bandung_1.jpg,nan
+265,Museum Mandala Wangsit Siliwangi,images_output\Museum Mandala Wangsit Siliwangi\Museum Mandala Wangsit Siliwangi_0.jpg,images_output\Museum Mandala Wangsit Siliwangi\Museum Mandala Wangsit Siliwangi_1.jpg,nan
+266,Caringin Tilu,images_output\Caringin Tilu\Caringin Tilu_0.jpg,images_output\Caringin Tilu\Caringin Tilu_1.jpg,nan
+267,Panama Park 825,images_output\Panama Park 825\Panama Park 825_0.jpg,images_output\Panama Park 825\Panama Park 825_1.jpg,images_output\Panama Park 825\Panama Park 825_2.jpg
+268,Sudut Pandang Bandung,images_output\Sudut Pandang Bandung\Sudut Pandang Bandung_0.jpg,nan,nan
+269,Bumi Perkemahan Batu Kuda,images_output\Bumi Perkemahan Batu Kuda\Bumi Perkemahan Batu Kuda_0.jpg,images_output\Bumi Perkemahan Batu Kuda\Bumi Perkemahan Batu Kuda_1.jpg,nan
+270,Bukit Bintang,images_output\Bukit Bintang Yogyakarta\Bukit Bintang Yogyakarta_0.png,images_output\Bukit Bintang Yogyakarta\Bukit Bintang Yogyakarta_1.jpg,images_output\Bukit Bintang\Bukit Bintang_2.jpg
+271,Taman Vanda,images_output\Taman Vanda\Taman Vanda_0.jpg,images_output\Taman Vanda\Taman Vanda_1.jpg,nan
+272,Taman Budaya Jawa Barat,images_output\Taman Budaya Jawa Barat\Taman Budaya Jawa Barat_0.jpg,nan,nan
+273,Curug Bugbrug,images_output\Curug Bugbrug\Curug Bugbrug_0.jpg,images_output\Curug Bugbrug\Curug Bugbrug_1.jpg,images_output\Curug Bugbrug\Curug Bugbrug_2.jpg
+274,Babakan Siliwangi City Forest Path Bandung,images_output\Babakan Siliwangi City Forest Path Bandung\Babakan Siliwangi City Forest Path Bandung_0.jpg,images_output\Babakan Siliwangi City Forest Path Bandung\Babakan Siliwangi City Forest Path Bandung_1.jpg,images_output\Babakan Siliwangi City Forest Path Bandung\Babakan Siliwangi City Forest Path Bandung_2.jpg
+275,Curug Cipanas,images_output\Curug Cipanas\Curug Cipanas_0.jpg,images_output\Curug Cipanas\Curug Cipanas_1.jpg,nan
+276,Taman Jomblo,images_output\Taman Jomblo\Taman Jomblo_0.jpg,images_output\Taman Jomblo\Taman Jomblo_1.jpg,nan
+277,Peta Park,images_output\Peta Park\Peta Park_0.jpg,images_output\Peta Park\Peta Park_1.jpg,images_output\Peta Park\Peta Park_2.jpg
+278,Masjid Daarut Tauhiid Bandung,images_output\Masjid Daarut Tauhiid Bandung\Masjid Daarut Tauhiid Bandung_0.jpg,images_output\Masjid Daarut Tauhiid Bandung\Masjid Daarut Tauhiid Bandung_1.jpg,nan
+279,Masjid Agung Trans Studio Bandung,images_output\Masjid Agung Trans Studio Bandung\Masjid Agung Trans Studio Bandung_0.jpg,images_output\Masjid Agung Trans Studio Bandung\Masjid Agung Trans Studio Bandung_1.jpg,nan
+280,Gereja Tiberias Indonesia Bandung,images_output\Gereja Tiberias Indonesia Bandung\Gereja Tiberias Indonesia Bandung_0.jpg,images_output\Gereja Tiberias Indonesia Bandung\Gereja Tiberias Indonesia Bandung_1.jpg,nan
+281,Tektona Waterpark,images_output\Tektona Waterpark\Tektona Waterpark_0.jpg,nan,nan
+282,Curug Cilengkrang,images_output\Curug Cilengkrang\Curug Cilengkrang_0.jpg,images_output\Curug Cilengkrang\Curug Cilengkrang_1.jpg,nan
+283,Jembatan Pasupati,images_output\Jembatan Pasupati\Jembatan Pasupati_0.jpg,images_output\Jembatan Pasupati\Jembatan Pasupati_1.jpg,images_output\Jembatan Pasupati\Jembatan Pasupati_2.png
+284,Pasar Baru,images_output\Pasar Baru\Pasar Baru_0.jpg,images_output\Pasar Baru\Pasar Baru_1.jpg,images_output\Pasar Baru\Pasar Baru_2.jpg
+285,Taman Sejarah Bandung,images_output\Taman Sejarah Bandung\Taman Sejarah Bandung_0.jpg,images_output\Taman Sejarah Bandung\Taman Sejarah Bandung_1.jpg,nan
+286,Roemah Seni Sarasvati,images_output\Roemah Seni Sarasvati\Roemah Seni Sarasvati_0.jpg,images_output\Roemah Seni Sarasvati\Roemah Seni Sarasvati_1.jpg,nan
+287,Puspa Iptek Sundial,images_output\Puspa Iptek Sundial\Puspa Iptek Sundial_0.jpg,images_output\Puspa Iptek Sundial\Puspa Iptek Sundial_1.jpg,nan
+288,Masjid Salman ITB,images_output\Masjid Salman ITB\Masjid Salman ITB_0.jpg,images_output\Masjid Salman ITB\Masjid Salman ITB_1.jpg,nan
+289,Curug Aseupan,images_output\Curug Aseupan\Curug Aseupan_0.jpg,images_output\Curug Aseupan\Curug Aseupan_1.jpg,images_output\Curug Aseupan\Curug Aseupan_2.jpg
+290,Museum Pendidikan Nasional,images_output\Museum Pendidikan Nasional\Museum Pendidikan Nasional_0.jpg,images_output\Museum Pendidikan Nasional\Museum Pendidikan Nasional_1.jpg,images_output\Museum Pendidikan Nasional\Museum Pendidikan Nasional_2.jpg
+291,Water Park Bandung Indah,images_output\Water Park Bandung Indah\Water Park Bandung Indah_0.jpg,images_output\Water Park Bandung Indah\Water Park Bandung Indah_1.jpg,images_output\Water Park Bandung Indah\Water Park Bandung Indah_2.png
+292,Curug Anom,images_output\Curug Anom\Curug Anom_0.jpg,images_output\Curug Anom\Curug Anom_1.jpg,images_output\Curug Anom\Curug Anom_2.jpg
+293,Taman Badak,images_output\Taman Badak\Taman Badak_0.jpg,images_output\Taman Badak\Taman Badak_1.png,nan
+294,Taman Film,images_output\Taman Film\Taman Film_0.jpg,images_output\Taman Film\Taman Film_1.jpg,images_output\Taman Film\Taman Film_2.jpg
+295,Museum Nike Ardilla,images_output\Museum Nike Ardilla\Museum Nike Ardilla_0.jpg,images_output\Museum Nike Ardilla\Museum Nike Ardilla_1.jpg,nan
+296,Batununggal Indah Club,images_output\Batununggal Indah Club\Batununggal Indah Club_0.jpg,images_output\Batununggal Indah Club\Batununggal Indah Club_1.jpg,images_output\Batununggal Indah Club\Batununggal Indah Club_2.jpg
+297,Mountain View Golf Club,images_output\Mountain View Golf Club\Mountain View Golf Club_0.jpg,nan,nan
+298,Gunung Lalakon,images_output\Gunung Lalakon\Gunung Lalakon_0.jpg,images_output\Gunung Lalakon\Gunung Lalakon_1.jpg,nan
+299,Sendang Geulis Kahuripan,images_output\Sendang Geulis Kahuripan\Sendang Geulis Kahuripan_0.jpg,nan,nan
+300,Sanghyang Heuleut,images_output\Sanghyang Heuleut\Sanghyang Heuleut_0.jpg,nan,nan
+301,Lereng Anteng Panoramic Coffee Place,images_output\Lereng Anteng Panoramic Coffee Place\Lereng Anteng Panoramic Coffee Place_0.jpg,images_output\Lereng Anteng Panoramic Coffee Place\Lereng Anteng Panoramic Coffee Place_1.jpg,nan
+302,Masjid Pusdai,images_output\Masjid Pusdai\Masjid Pusdai_0.jpg,images_output\Masjid Pusdai\Masjid Pusdai_1.jpg,images_output\Masjid Pusdai\Masjid Pusdai_2.jpg
+303,Masjid Al-Imtizaj,images_output\Masjid Al-Imtizaj\Masjid Al-Imtizaj_0.jpg,images_output\Masjid Al-Imtizaj\Masjid Al-Imtizaj_1.jpg,images_output\Masjid Al-Imtizaj\Masjid Al-Imtizaj_2.jpg
+304,Situ Cileunca,images_output\Situ Cileunca\Situ Cileunca_0.jpg,images_output\Situ Cileunca\Situ Cileunca_1.jpg,nan
+305,Sunrise Point Cukul,images_output\Sunrise Point Cukul\Sunrise Point Cukul_0.jpg,images_output\Sunrise Point Cukul\Sunrise Point Cukul_1.jpg,nan
+306,Sungai Palayangan,images_output\Sungai Palayangan\Sungai Palayangan_0.jpg,nan,nan
+307,Perkebunan Teh Malabar,images_output\Perkebunan Teh Malabar\Perkebunan Teh Malabar_0.jpg,images_output\Perkebunan Teh Malabar\Perkebunan Teh Malabar_1.jpg,nan
+308,Pemandian Air Panas Ciater,images_output\Pemandian Air Panas Ciater\Pemandian Air Panas Ciater_0.jpg,images_output\Pemandian Air Panas Ciater\Pemandian Air Panas Ciater_1.jpg,nan
+309,Observatorium Bosscha,images_output\Observatorium Bosscha\Observatorium Bosscha_0.jpg,images_output\Observatorium Bosscha\Observatorium Bosscha_1.jpg,nan
+310,Taman Bunga Cihideung,images_output\Taman Bunga Cihideung\Taman Bunga Cihideung_0.jpg,images_output\Taman Bunga Cihideung\Taman Bunga Cihideung_1.jpg,nan
+311,The Lodge Maribaya,images_output\The Lodge Maribaya\The Lodge Maribaya_0.jpg,images_output\The Lodge Maribaya\The Lodge Maribaya_1.jpg,nan
+312,Taman Hutan Raya Ir. H. Juanda,images_output\Taman Hutan Raya Ir. H. Juanda\Taman Hutan Raya Ir. H. Juanda_0.jpg,images_output\Taman Hutan Raya Ir. H. Juanda\Taman Hutan Raya Ir. H. Juanda_1.png,images_output\Taman Hutan Raya Ir. H. Juanda\Taman Hutan Raya Ir. H. Juanda_2.jpg
+313,Taman Begonia,images_output\Taman Begonia\Taman Begonia_0.jpg,images_output\Taman Begonia\Taman Begonia_1.jpg,nan
+314,Tafso Barn,images_output\Tafso Barn\Tafso Barn_0.jpg,images_output\Tafso Barn\Tafso Barn_1.jpg,nan
+315,Curug Luhur Waterfall,images_output\Curug Luhur Waterfall\Curug Luhur Waterfall_0.jpg,images_output\Curug Luhur Waterfall\Curug Luhur Waterfall_1.jpg,images_output\Curug Luhur Waterfall\Curug Luhur Waterfall_2.jpg
+316,Curug Malela,images_output\Curug Malela\Curug Malela_0.jpg,images_output\Curug Malela\Curug Malela_1.jpg,images_output\Curug Malela\Curug Malela_2.jpg
+317,Curug Cimahi,images_output\Curug Cimahi\Curug Cimahi_0.jpg,images_output\Curug Cimahi\Curug Cimahi_1.jpg,nan
+318,Situ Patenggang,images_output\Situ Patenggang\Situ Patenggang_0.jpg,images_output\Situ Patenggang\Situ Patenggang_1.jpg,images_output\Situ Patenggang\Situ Patenggang_2.jpg
+319,Kawah Rengganis Cibuni,images_output\Kawah Rengganis Cibuni\Kawah Rengganis Cibuni_0.jpg,images_output\Kawah Rengganis Cibuni\Kawah Rengganis Cibuni_1.jpg,images_output\Kawah Rengganis Cibuni\Kawah Rengganis Cibuni_2.jpg
+320,Pemandian Air Panas Cimanggu,images_output\Pemandian Air Panas Cimanggu\Pemandian Air Panas Cimanggu_0.jpg,nan,nan
+321,Glamping Lakeside Rancabali,images_output\Glamping Lakeside Rancabali\Glamping Lakeside Rancabali_0.jpg,images_output\Glamping Lakeside Rancabali\Glamping Lakeside Rancabali_1.jpg,images_output\Glamping Lakeside Rancabali\Glamping Lakeside Rancabali_2.jpg
+322,Bukit Jamur,images_output\Bukit Jamur\Bukit Jamur_0.jpg,nan,nan
+323,Kebun Tanaman Obat Sari Alam,images_output\Kebun Tanaman Obat Sari Alam\Kebun Tanaman Obat Sari Alam_0.png,images_output\Kebun Tanaman Obat Sari Alam\Kebun Tanaman Obat Sari Alam_1.jpg,nan
+324,Happyfarm Ciwidey,images_output\Happyfarm Ciwidey\Happyfarm Ciwidey_0.jpg,images_output\Happyfarm Ciwidey\Happyfarm Ciwidey_1.jpg,nan
+325,Saung Angklung Mang Udjo,images_output\Saung Angklung Mang Udjo\Saung Angklung Mang Udjo_0.jpg,images_output\Saung Angklung Mang Udjo\Saung Angklung Mang Udjo_1.jpg,nan
+326,Taman Kupu-Kupu Cihanjuang,images_output\Taman Kupu-Kupu Cihanjuang\Taman Kupu-Kupu Cihanjuang_0.jpg,nan,nan
+327,Taman Miniatur Kereta Api,images_output\Taman Miniatur Kereta Api\Taman Miniatur Kereta Api_0.jpg,nan,nan
+328,Gua Pawon,images_output\Gua Pawon\Gua Pawon_0.jpg,images_output\Gua Pawon\Gua Pawon_1.jpg,images_output\Gua Pawon\Gua Pawon_2.jpg
+329,Bukit Gantole Cililin,images_output\Bukit Gantole Cililin\Bukit Gantole Cililin_0.jpg,images_output\Bukit Gantole Cililin\Bukit Gantole Cililin_1.jpg,nan
+330,Bandros City Tour,images_output\Bandros City Tour\Bandros City Tour_0.jpg,images_output\Bandros City Tour\Bandros City Tour_1.jpg,nan
+331,Kyotoku Floating Market,images_output\Kyotoku Floating Market\Kyotoku Floating Market_0.jpg,images_output\Kyotoku Floating Market\Kyotoku Floating Market_1.jpg,images_output\Kyotoku Floating Market\Kyotoku Floating Market_2.jpg
+332,Rainbow Garden,images_output\Rainbow Garden\Rainbow Garden_0.jpg,nan,nan
+333,Kota Mini,images_output\Kota Mini\Kota Mini_0.jpg,images_output\Kota Mini\Kota Mini_1.jpg,nan
+334,Chingu Cafe Little Seoul,images_output\Chingu Cafe Little Seoul\Chingu Cafe Little Seoul_0.jpg,images_output\Chingu Cafe Little Seoul\Chingu Cafe Little Seoul_1.jpg,nan
+335,Candi Gedong Songo,images_output\Candi Gedong Songo\Candi Gedong Songo_0.jpg,images_output\Candi Gedong Songo\Candi Gedong Songo_1.png,images_output\Candi Gedong Songo\Candi Gedong Songo_2.jpg
+336,Grand Maerakaca,images_output\Grand Maerakaca\Grand Maerakaca_0.jpg,images_output\Grand Maerakaca\Grand Maerakaca_1.jpg,nan
+337,Kampung Pelangi,images_output\Kampung Pelangi\Kampung Pelangi_0.jpg,images_output\Kampung Pelangi\Kampung Pelangi_1.jpg,nan
+338,Lawang Sewu,images_output\Lawang Sewu\Lawang Sewu_0.jpg,images_output\Lawang Sewu\Lawang Sewu_1.jpg,images_output\Lawang Sewu\Lawang Sewu_2.jpg
+339,Sam Poo Kong Temple,images_output\Sam Poo Kong Temple\Sam Poo Kong Temple_0.jpg,images_output\Sam Poo Kong Temple\Sam Poo Kong Temple_1.jpg,images_output\Sam Poo Kong Temple\Sam Poo Kong Temple_2.jpg
+340,Desa Wisata Lembah Kalipancur,images_output\Desa Wisata Lembah Kalipancur\Desa Wisata Lembah Kalipancur_0.jpg,images_output\Desa Wisata Lembah Kalipancur\Desa Wisata Lembah Kalipancur_1.jpg,nan
+341,Hutan Wisata Tinjomoyo Semarang,images_output\Hutan Wisata Tinjomoyo Semarang\Hutan Wisata Tinjomoyo Semarang_0.jpg,images_output\Hutan Wisata Tinjomoyo Semarang\Hutan Wisata Tinjomoyo Semarang_1.png,images_output\Hutan Wisata Tinjomoyo Semarang\Hutan Wisata Tinjomoyo Semarang_2.jpg
+342,Taman Kasmaran,images_output\Taman Kasmaran\Taman Kasmaran_0.jpg,nan,nan
+343,Pantai Baruna,images_output\Pantai Baruna\Pantai Baruna_0.jpg,nan,nan
+344,Pantai Marina,images_output\Pantai Marina\Pantai Marina_0.jpg,nan,nan
+345,Kampoeng Djadhoel Semarang,images_output\Kampoeng Djadhoel Semarang\Kampoeng Djadhoel Semarang_0.jpg,images_output\Kampoeng Djadhoel Semarang\Kampoeng Djadhoel Semarang_1.jpg,images_output\Kampoeng Djadhoel Semarang\Kampoeng Djadhoel Semarang_2.jpg
+346,Indonesia Kaya Park,images_output\Indonesia Kaya Park\Indonesia Kaya Park_0.jpg,images_output\Indonesia Kaya Park\Indonesia Kaya Park_1.jpg,images_output\Indonesia Kaya Park\Indonesia Kaya Park_2.jpg
+347,Taman Pandanaran,images_output\Taman Pandanaran\Taman Pandanaran_0.jpg,images_output\Taman Pandanaran\Taman Pandanaran_1.png,nan
+348,Pura Giri Natha,images_output\Pura Giri Natha\Pura Giri Natha_0.jpg,images_output\Pura Giri Natha\Pura Giri Natha_1.jpg,nan
+349,Wisata Mangrove Tapak,images_output\Wisata Mangrove Tapak\Wisata Mangrove Tapak_0.jpg,images_output\Wisata Mangrove Tapak\Wisata Mangrove Tapak_1.jpg,images_output\Wisata Mangrove Tapak\Wisata Mangrove Tapak_2.jpg
+350,Pantai Cipta,images_output\Pantai Cipta\Pantai Cipta_0.jpg,images_output\Pantai Cipta\Pantai Cipta_1.png,nan
+351,Old City 3D Trick Art Museum,images_output\Old City 3D Trick Art Museum\Old City 3D Trick Art Museum_0.png,images_output\Old City 3D Trick Art Museum\Old City 3D Trick Art Museum_1.jpg,images_output\Old City 3D Trick Art Museum\Old City 3D Trick Art Museum_2.jpg
+352,GPIB Immanuel Semarang (Gereja Blenduk),images_output\GPIB Immanuel Semarang (Gereja Blenduk)\GPIB Immanuel Semarang (Gereja Blenduk)_0.jpg,nan,nan
+353,Taman Srigunting,images_output\Taman Srigunting\Taman Srigunting_0.jpg,images_output\Taman Srigunting\Taman Srigunting_1.jpg,nan
+354,Semarang Contemporary Art Gallery,images_output\Semarang Contemporary Art Gallery\Semarang Contemporary Art Gallery_0.jpg,images_output\Semarang Contemporary Art Gallery\Semarang Contemporary Art Gallery_1.jpg,images_output\Semarang Contemporary Art Gallery\Semarang Contemporary Art Gallery_2.jpg
+355,Umbul Sidomukti,images_output\Umbul Sidomukti\Umbul Sidomukti_0.jpg,images_output\Umbul Sidomukti\Umbul Sidomukti_1.jpg,images_output\Umbul Sidomukti\Umbul Sidomukti_2.jpg
+356,Saloka Theme Park,images_output\Saloka Theme Park\Saloka Theme Park_0.jpg,images_output\Saloka Theme Park\Saloka Theme Park_1.jpg,nan
+357,Wisata Alam Wana Wisata Penggaron,images_output\Wisata Alam Wana Wisata Penggaron\Wisata Alam Wana Wisata Penggaron_0.jpg,images_output\Wisata Alam Wana Wisata Penggaron\Wisata Alam Wana Wisata Penggaron_1.jpg,nan
+358,Masjid Kapal Semarang,images_output\Masjid Kapal Semarang\Masjid Kapal Semarang_0.jpg,images_output\Masjid Kapal Semarang\Masjid Kapal Semarang_1.jpg,images_output\Masjid Kapal Semarang\Masjid Kapal Semarang_2.jpg
+359,Taman Bunga Celosia,images_output\Taman Bunga Celosia\Taman Bunga Celosia_0.png,images_output\Taman Bunga Celosia\Taman Bunga Celosia_1.jpg,nan
+360,Air Terjun Kali Pancur,images_output\Air Terjun Kali Pancur\Air Terjun Kali Pancur_0.jpg,images_output\Air Terjun Kali Pancur\Air Terjun Kali Pancur_1.jpg,images_output\Air Terjun Kali Pancur\Air Terjun Kali Pancur_2.jpg
+361,Wisata Kampung Krisan Clapar,images_output\Wisata Kampung Krisan Clapar\Wisata Kampung Krisan Clapar_0.jpg,nan,nan
+362,Danau Rawa Pening,images_output\Danau Rawa Pening\Danau Rawa Pening_0.jpg,images_output\Danau Rawa Pening\Danau Rawa Pening_1.jpg,nan
+363,Pantai Maron,images_output\Pantai Maron\Pantai Maron_0.jpg,nan,nan
+364,Water Blaster Bukit Candi Golf,images_output\Water Blaster Bukit Candi Golf\Water Blaster Bukit Candi Golf_0.jpg,images_output\Water Blaster Bukit Candi Golf\Water Blaster Bukit Candi Golf_1.jpg,images_output\Water Blaster Bukit Candi Golf\Water Blaster Bukit Candi Golf_2.jpg
+365,Waduk Jatibarang,images_output\Waduk Jatibarang\Waduk Jatibarang_0.jpg,images_output\Waduk Jatibarang\Waduk Jatibarang_1.jpg,nan
+366,Tirto Argo Siwarak,images_output\Tirto Argo Siwarak\Tirto Argo Siwarak_0.jpg,images_output\Tirto Argo Siwarak\Tirto Argo Siwarak_1.jpg,nan
+367,Wisata Lereng Kelir,images_output\Wisata Lereng Kelir\Wisata Lereng Kelir_0.png,images_output\Wisata Lereng Kelir\Wisata Lereng Kelir_1.png,nan
+368,Kampoeng Rawa,images_output\Kampoeng Rawa\Kampoeng Rawa_0.jpg,images_output\Kampoeng Rawa\Kampoeng Rawa_1.jpg,nan
+369,Monumen Palagan Ambarawa,images_output\Monumen Palagan Ambarawa\Monumen Palagan Ambarawa_0.jpg,images_output\Monumen Palagan Ambarawa\Monumen Palagan Ambarawa_1.jpg,images_output\Monumen Palagan Ambarawa\Monumen Palagan Ambarawa_2.jpg
+370,Benteng Pendem,images_output\Benteng Pendem\Benteng Pendem_0.jpg,images_output\Benteng Pendem\Benteng Pendem_1.jpg,images_output\Benteng Pendem\Benteng Pendem_2.jpg
+371,Wisata Eling Bening,images_output\Wisata Eling Bening\Wisata Eling Bening_0.png,images_output\Wisata Eling Bening\Wisata Eling Bening_1.jpg,nan
+372,Gua Maria Kerep Ambarawa,images_output\Gua Maria Kerep Ambarawa\Gua Maria Kerep Ambarawa_0.jpg,images_output\Gua Maria Kerep Ambarawa\Gua Maria Kerep Ambarawa_1.jpg,nan
+373,Museum Kereta Ambarawa,images_output\Museum Kereta Ambarawa\Museum Kereta Ambarawa_0.jpg,images_output\Museum Kereta Ambarawa\Museum Kereta Ambarawa_1.jpg,nan
+374,Hutan Pinus Kayon,images_output\Hutan Pinus Kayon\Hutan Pinus Kayon_0.jpg,images_output\Hutan Pinus Kayon\Hutan Pinus Kayon_1.jpg,images_output\Hutan Pinus Kayon\Hutan Pinus Kayon_2.jpg
+375,Kota Lama Semarang,images_output\Kota Lama Semarang\Kota Lama Semarang_0.jpg,images_output\Kota Lama Semarang\Kota Lama Semarang_1.jpg,images_output\Kota Lama Semarang\Kota Lama Semarang_2.jpg
+376,Semarang Chinatown,images_output\Semarang Chinatown\Semarang Chinatown_0.png,images_output\Semarang Chinatown\Semarang Chinatown_1.png,nan
+377,La Kana Chapel,images_output\La Kana Chapel\La Kana Chapel_0.jpg,images_output\La Kana Chapel\La Kana Chapel_1.jpg,nan
+378,Jembatan Biru Ambarawa,images_output\Jembatan Biru Ambarawa\Jembatan Biru Ambarawa_0.jpg,images_output\Jembatan Biru Ambarawa\Jembatan Biru Ambarawa_1.jpg,images_output\Jembatan Biru Ambarawa\Jembatan Biru Ambarawa_2.jpg
+379,Goa Rong,images_output\Goa Rong\Goa Rong_0.png,images_output\Goa Rong\Goa Rong_1.jpg,nan
+380,Masjid Agung Ungaran,images_output\Masjid Agung Ungaran\Masjid Agung Ungaran_0.jpg,images_output\Masjid Agung Ungaran\Masjid Agung Ungaran_1.png,images_output\Masjid Agung Ungaran\Masjid Agung Ungaran_2.jpg
+381,Tugu Muda Semarang,images_output\Tugu Muda Semarang\Tugu Muda Semarang_0.jpg,images_output\Tugu Muda Semarang\Tugu Muda Semarang_1.jpg,images_output\Tugu Muda Semarang\Tugu Muda Semarang_2.jpg
+382,Kampoeng Kopi Banaran,images_output\Kampoeng Kopi Banaran\Kampoeng Kopi Banaran_0.png,images_output\Kampoeng Kopi Banaran\Kampoeng Kopi Banaran_1.png,nan
+383,Taman Tabanas,images_output\Taman Tabanas\Taman Tabanas_0.jpg,nan,nan
+384,Kampung Tematik Jawi,images_output\Kampung Tematik Jawi\Kampung Tematik Jawi_0.jpg,images_output\Kampung Tematik Jawi\Kampung Tematik Jawi_1.jpg,images_output\Kampung Tematik Jawi\Kampung Tematik Jawi_2.jpg
+385,Kampung Batik Gedong Semarang,images_output\Kampung Batik Gedong Semarang\Kampung Batik Gedong Semarang_0.jpg,images_output\Kampung Batik Gedong Semarang\Kampung Batik Gedong Semarang_1.jpg,nan
+386,Air Terjun Semirang,images_output\Air Terjun Semirang\Air Terjun Semirang_0.jpg,images_output\Air Terjun Semirang\Air Terjun Semirang_1.jpg,images_output\Air Terjun Semirang\Air Terjun Semirang_2.jpg
+387,Obyek Wisata Goa Kreo,images_output\Obyek Wisata Goa Kreo\Obyek Wisata Goa Kreo_0.jpg,images_output\Obyek Wisata Goa Kreo\Obyek Wisata Goa Kreo_1.jpg,images_output\Obyek Wisata Goa Kreo\Obyek Wisata Goa Kreo_2.jpg
+388,Watu Gunung Ungaran,images_output\Watu Gunung Ungaran\Watu Gunung Ungaran_0.jpg,nan,nan
+389,Brown Canyon,images_output\Brown Canyon\Brown Canyon_0.jpg,images_output\Brown Canyon\Brown Canyon_1.jpg,nan
+390,Durian Gardens and Tourism Education Watu Simbar,images_output\Durian Gardens and Tourism Education Watu Simbar\Durian Gardens and Tourism Education Watu Simbar_0.jpg,images_output\Durian Gardens and Tourism Education Watu Simbar\Durian Gardens and Tourism Education Watu Simbar_1.jpg,images_output\Durian Gardens and Tourism Education Watu Simbar\Durian Gardens and Tourism Education Watu Simbar_2.jpg
+391,Flower Farm Setiya Aji,images_output\Flower Farm Setiya Aji\Flower Farm Setiya Aji_0.jpg,images_output\Flower Farm Setiya Aji\Flower Farm Setiya Aji_1.jpg,images_output\Flower Farm Setiya Aji\Flower Farm Setiya Aji_2.jpg
+392,Ekowisata Mangrove Wonorejo,images_output\Ekowisata Mangrove Wonorejo\Ekowisata Mangrove Wonorejo_0.jpg,images_output\Ekowisata Mangrove Wonorejo\Ekowisata Mangrove Wonorejo_1.jpg,images_output\Ekowisata Mangrove Wonorejo\Ekowisata Mangrove Wonorejo_2.jpg
+393,Taman Harmoni Keputih,images_output\Taman Harmoni Keputih\Taman Harmoni Keputih_0.png,images_output\Taman Harmoni Keputih\Taman Harmoni Keputih_1.jpg,images_output\Taman Harmoni Keputih\Taman Harmoni Keputih_2.jpg
+394,Air Mancur Menari,images_output\Taman Air Mancur Menari Kenjeran\Taman Air Mancur Menari Kenjeran_0.jpg,images_output\Taman Air Mancur Menari Kenjeran\Taman Air Mancur Menari Kenjeran_1.jpg,images_output\Air Mancur Menari\Air Mancur Menari_2.jpg
+395,Taman Prestasi,images_output\Taman Prestasi\Taman Prestasi_0.jpg,images_output\Taman Prestasi\Taman Prestasi_1.jpg,images_output\Taman Prestasi\Taman Prestasi_2.jpg
+396,Monumen Kapal Selam,images_output\Monumen Kapal Selam\Monumen Kapal Selam_0.jpg,images_output\Monumen Kapal Selam\Monumen Kapal Selam_1.jpg,images_output\Monumen Kapal Selam\Monumen Kapal Selam_2.jpg
+397,Taman Kunang-Kunang,images_output\Taman Kunang-Kunang\Taman Kunang-Kunang_0.jpg,images_output\Taman Kunang-Kunang\Taman Kunang-Kunang_1.jpg,images_output\Taman Kunang-Kunang\Taman Kunang-Kunang_2.jpg
+398,Taman Buah Surabaya,images_output\Taman Buah Surabaya\Taman Buah Surabaya_0.jpg,nan,nan
+399,Taman Pelangi,images_output\Taman Pelangi Yogyakarta\Taman Pelangi Yogyakarta_0.jpg,nan,nan
+400,Hutan Bambu Keputih,images_output\Hutan Bambu Keputih\Hutan Bambu Keputih_0.jpg,images_output\Hutan Bambu Keputih\Hutan Bambu Keputih_1.jpg,nan
+401,Taman Keputran,images_output\Taman Keputran\Taman Keputran_0.jpg,images_output\Taman Keputran\Taman Keputran_1.jpg,nan
+402,Food Junction Grand Pakuwon,images_output\Food Junction Grand Pakuwon\Food Junction Grand Pakuwon_0.jpg,images_output\Food Junction Grand Pakuwon\Food Junction Grand Pakuwon_1.jpg,images_output\Food Junction Grand Pakuwon\Food Junction Grand Pakuwon_2.jpg
+403,Taman Barunawati,images_output\Taman Barunawati\Taman Barunawati_0.jpg,images_output\Taman Barunawati\Taman Barunawati_1.jpg,images_output\Taman Barunawati\Taman Barunawati_2.jpg
+404,Kenjeran Park,images_output\Kenjeran Park\Kenjeran Park_0.jpg,images_output\Kenjeran Park\Kenjeran Park_1.jpg,nan
+405,Surabaya North Quay,images_output\Surabaya North Quay\Surabaya North Quay_0.jpg,images_output\Surabaya North Quay\Surabaya North Quay_1.jpg,nan
+406,Kebun Bibit Wonorejo,images_output\Kebun Bibit Wonorejo\Kebun Bibit Wonorejo_0.jpg,images_output\Kebun Bibit Wonorejo\Kebun Bibit Wonorejo_1.jpg,images_output\Kebun Bibit Wonorejo\Kebun Bibit Wonorejo_2.jpg
+407,Taman Ekspresi Dan Perpustakaan,images_output\Taman Ekspresi Dan Perpustakaan\Taman Ekspresi Dan Perpustakaan_0.jpg,nan,nan
+408,Kebun Binatang Surabaya,images_output\Kebun Binatang Surabaya\Kebun Binatang Surabaya_0.jpg,nan,nan
+409,Rumah Batik,images_output\Rumah Batik\Rumah Batik_0.jpg,images_output\Rumah Batik\Rumah Batik_1.jpg,images_output\Rumah Batik\Rumah Batik_2.jpg
+410,Ciputra Waterpark,images_output\Ciputra Waterpark\Ciputra Waterpark_0.jpg,images_output\Ciputra Waterpark\Ciputra Waterpark_1.jpg,nan
+411,Masjid Muhammad Cheng Hoo,images_output\Masjid Muhammad Cheng Hoo\Masjid Muhammad Cheng Hoo_0.jpg,images_output\Masjid Muhammad Cheng Hoo\Masjid Muhammad Cheng Hoo_1.jpg,images_output\Masjid Muhammad Cheng Hoo\Masjid Muhammad Cheng Hoo_2.jpg
+412,Masjid Nasional Al-Akbar,images_output\Masjid Nasional Al-Akbar\Masjid Nasional Al-Akbar_0.jpg,images_output\Masjid Nasional Al-Akbar\Masjid Nasional Al-Akbar_1.jpg,images_output\Masjid Nasional Al-Akbar\Masjid Nasional Al-Akbar_2.jpg
+413,Museum TNI AL Loka Jala Crana,images_output\Museum TNI AL Loka Jala Crana\Museum TNI AL Loka Jala Crana_0.jpg,images_output\Museum TNI AL Loka Jala Crana\Museum TNI AL Loka Jala Crana_1.jpg,nan
+414,Jembatan Merah,images_output\Jembatan Merah\Jembatan Merah_0.jpg,images_output\Jembatan Merah\Jembatan Merah_1.jpg,images_output\Jembatan Merah\Jembatan Merah_2.jpg
+415,Museum De Javasche Bank,images_output\Museum De Javasche Bank\Museum De Javasche Bank_0.jpg,nan,nan
+416,Keraton Surabaya,images_output\Keraton Surabaya\Keraton Surabaya_0.jpg,images_output\Keraton Surabaya\Keraton Surabaya_1.jpg,nan
+417,Klenteng Sanggar Agung,images_output\Klenteng Sanggar Agung\Klenteng Sanggar Agung_0.png,images_output\Klenteng Sanggar Agung\Klenteng Sanggar Agung_1.jpg,nan
+418,Museum Sepuluh Nopember Kota Surabaya,images_output\Museum Sepuluh Nopember Kota Surabaya\Museum Sepuluh Nopember Kota Surabaya_0.jpg,images_output\Museum Sepuluh Nopember Kota Surabaya\Museum Sepuluh Nopember Kota Surabaya_1.jpg,images_output\Museum Sepuluh Nopember Kota Surabaya\Museum Sepuluh Nopember Kota Surabaya_2.jpg
+419,Monumen Tugu Pahlawan,images_output\Monumen Tugu Pahlawan\Monumen Tugu Pahlawan_0.jpg,images_output\Monumen Tugu Pahlawan\Monumen Tugu Pahlawan_1.jpg,nan
+420,Surabaya Museum (Gedung Siola),images_output\Surabaya Museum (Gedung Siola)\Surabaya Museum (Gedung Siola)_0.jpg,images_output\Surabaya Museum (Gedung Siola)\Surabaya Museum (Gedung Siola)_1.jpg,nan
+421,Museum Kesehatan Dr. Adhyatma,images_output\Museum Kesehatan Dr. Adhyatma\Museum Kesehatan Dr. Adhyatma_0.jpg,images_output\Museum Kesehatan Dr. Adhyatma\Museum Kesehatan Dr. Adhyatma_1.jpg,nan
+422,Monumen Jalesveva Jayamahe,images_output\Monumen Jalesveva Jayamahe\Monumen Jalesveva Jayamahe_0.jpg,images_output\Monumen Jalesveva Jayamahe\Monumen Jalesveva Jayamahe_1.jpg,images_output\Monumen Jalesveva Jayamahe\Monumen Jalesveva Jayamahe_2.jpg
+423,Patung Sura dan Buaya,images_output\Patung Sura dan Buaya\Patung Sura dan Buaya_0.jpg,images_output\Patung Sura dan Buaya\Patung Sura dan Buaya_1.jpg,nan
+424,Pantai Ria Kenjeran,images_output\Pantai Ria Kenjeran\Pantai Ria Kenjeran_0.jpg,nan,nan
+425,Waterpark Kenjeran Surabaya,images_output\Waterpark Kenjeran Surabaya\Waterpark Kenjeran Surabaya_0.jpg,nan,nan
+426,Balai Kota Surabaya,images_output\Balai Kota Surabaya\Balai Kota Surabaya_0.jpg,images_output\Balai Kota Surabaya\Balai Kota Surabaya_1.jpg,nan
+427,Patung Buddha Empat Rupa,images_output\Patung Buddha Empat Rupa\Patung Buddha Empat Rupa_0.jpg,images_output\Patung Buddha Empat Rupa\Patung Buddha Empat Rupa_1.jpg,nan
+428,Monumen Bambu Runcing Surabaya,images_output\Monumen Bambu Runcing Surabaya\Monumen Bambu Runcing Surabaya_0.jpg,images_output\Monumen Bambu Runcing Surabaya\Monumen Bambu Runcing Surabaya_1.jpg,images_output\Monumen Bambu Runcing Surabaya\Monumen Bambu Runcing Surabaya_2.jpg
+429,House of Sampoerna,images_output\House of Sampoerna\House of Sampoerna_0.jpg,images_output\House of Sampoerna\House of Sampoerna_1.jpg,nan
+430,Atlantis Land Surabaya,images_output\Atlantis Land Surabaya\Atlantis Land Surabaya_0.jpg,images_output\Atlantis Land Surabaya\Atlantis Land Surabaya_1.jpg,images_output\Atlantis Land Surabaya\Atlantis Land Surabaya_2.jpg
+431,Taman Hiburan Rakyat,images_output\Taman Hiburan Rakyat\Taman Hiburan Rakyat_0.jpg,images_output\Taman Hiburan Rakyat\Taman Hiburan Rakyat_1.jpg,images_output\Taman Hiburan Rakyat\Taman Hiburan Rakyat_2.jpg
+432,Taman Mundu,images_output\Taman Mundu\Taman Mundu_0.jpg,nan,nan
+433,Museum Mpu Tantular,images_output\Museum Mpu Tantular\Museum Mpu Tantular_0.jpg,images_output\Museum Mpu Tantular\Museum Mpu Tantular_1.jpg,nan
+434,Taman Bungkul,images_output\Taman Bungkul\Taman Bungkul_0.jpg,images_output\Taman Bungkul\Taman Bungkul_1.jpg,images_output\Taman Bungkul\Taman Bungkul_2.jpg
+435,Taman Air Mancur Menari Kenjeran,images_output\Taman Air Mancur Menari Kenjeran\Taman Air Mancur Menari Kenjeran_0.jpg,images_output\Taman Air Mancur Menari Kenjeran\Taman Air Mancur Menari Kenjeran_1.jpg,nan
+436,Taman Flora Bratang Surabaya,images_output\Taman Flora Bratang Surabaya\Taman Flora Bratang Surabaya_0.jpg,nan,nan
+437,Gereja Perawan Maria Tak Berdosa Surabaya,images_output\Gereja Perawan Maria Tak Berdosa Surabaya\Gereja Perawan Maria Tak Berdosa Surabaya_0.jpg,images_output\Gereja Perawan Maria Tak Berdosa Surabaya\Gereja Perawan Maria Tak Berdosa Surabaya_1.jpg,images_output\Gereja Perawan Maria Tak Berdosa Surabaya\Gereja Perawan Maria Tak Berdosa Surabaya_2.jpg
