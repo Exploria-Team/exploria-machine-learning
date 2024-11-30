@@ -5,7 +5,7 @@ from TF_Object import CollaborativeFilteringLayer
 from TF_Object import CollaborativeFilteringModel
 
 
-class ContentBasedTest(unittest.TestCase):
+class CollaborativeFilteringTest(unittest.TestCase):
     def setUp(self) -> None:
         # Important variables based on dataset
         self.num_users = 300
