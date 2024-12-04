@@ -8,8 +8,8 @@ from TF_Object import L2NormalizeLayer
 class ContentBasedTest(unittest.TestCase):
     def setUp(self) -> None:
         # Load Vector Data
-        self.user_data_vecs = np.load('Vector/user_vector.npy')
-        self.tourism_data_vecs = np.load('Vector/tourism_vector.npy')
+        self.user_data_vecs = np.load('../Vector/user_vector.npy')
+        self.tourism_data_vecs = np.load('../Vector/tourism_vector.npy')
 
         # Load Scaler
         self.user_scaler = joblib.load('../Scaler/user_scaler.gz')

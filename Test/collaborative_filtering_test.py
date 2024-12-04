@@ -13,7 +13,7 @@ class CollaborativeFilteringTest(unittest.TestCase):
         self.num_features = 64
 
         # Y_mean for denormalize prediction results
-        self.Y_mean = np.load('Vector/Y_mean.npy')
+        self.Y_mean = np.load('../Vector/Y_mean.npy')
 
         # Load NN Model
         self.model = tf.keras.models.load_model('../Model/collaborative_filtering.h5', custom_objects={
