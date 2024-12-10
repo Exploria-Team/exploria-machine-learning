@@ -72,6 +72,7 @@ The list of libraries and their versions can be found in the `requirements.txt` 
 ```bash
 pip install -r requirements.txt
 
+---
 ## About the Team
 
 Exploria’s Machine Learning team consists of passionate individuals from Bangkit 2024 Batch 2:
