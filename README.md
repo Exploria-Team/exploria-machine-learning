@@ -71,7 +71,7 @@ The list of libraries and their versions can be found in the `requirements.txt` 
 
 ```bash
 pip install -r requirements.txt
-
+```
 ---
 ## About the Team
 
