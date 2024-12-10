@@ -21,7 +21,7 @@ Exploria is designed to:
 - [Datasets](#datasets)
 - [Library](#library)
 - [Model](#model)
-- [About the Team](#About the Team)
+- [About the Team](#about-the-team)
 
 ## Datasets
 
