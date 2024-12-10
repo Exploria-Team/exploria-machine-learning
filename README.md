@@ -21,9 +21,7 @@ Exploria is designed to:
 - [Datasets](#datasets)
 - [Library](#library)
 - [Model](#model)
-- [Evaluation](#evaluation)
-- [Model Conversion](#model-conversion)
-- About the team
+- [About the Team](#About the Team)
 
 ## Datasets
 
@@ -73,6 +71,27 @@ The list of libraries and their versions can be found in the `requirements.txt` 
 pip install -r requirements.txt
 ```
 ---
+## Model
+
+The recommendation system uses a combination of the following models:
+
+1. **Collaborative Filtering**  
+   - **File**: `Collaborative_Filtering.ipynb`  
+   - **Model**: `collaborative_filtering.h5`  
+   - Uses user-item interactions to recommend destinations based on similar users.
+
+2. **Content-Based Filtering**  
+   - **File**: `Content_Based.ipynb`  
+   - **Model**: `content_based.h5`  
+   - Recommends destinations based on item attributes and user preferences.
+
+3. **Hybrid Recommendation**  
+   - **File**: `hybrid_recommendation.py`  
+   - Combines collaborative and content-based models for more accurate recommendations.
+
+Models are located in the `Model` folder and can be trained using the respective notebooks. The trained models are saved as `.h5` files for inference.
+
+
 ## About the Team
 
 Exploria’s Machine Learning team consists of passionate individuals from Bangkit 2024 Batch 2:
@@ -81,11 +100,5 @@ Exploria’s Machine Learning team consists of passionate individuals from Bangk
 | Komang Ryandhi Suandita | M004B4KY2222    | Machine Learning   |
 | Bayu Siddhi Mukti        | M004B4KY0830      | Machine Learning   |
 | Yasmin Nur Helisa       | M004B4KX4522     | Machine Learning   |
-
-## Vision for the Future
-
-By fostering sustainable and meaningful tourism, Exploria contributes to Indonesia’s goal of becoming a global tourism powerhouse. Our platform combines cutting-edge technology with a commitment to preservation, ensuring a brighter, balanced future for Indonesia’s tourism industry.
-
----
 
 Explore responsibly. Travel meaningfully. With Exploria.
