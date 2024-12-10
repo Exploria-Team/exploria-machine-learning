@@ -17,28 +17,60 @@ Exploria is designed to:
 - Promote sustainable tourism practices to protect Indonesia's environment and cultural assets.
 - Encourage responsible travel choices that create meaningful experiences for visitors while preserving the country’s unique heritage.
 
-## Features
+## Table of Contents
+- [Datasets](#datasets)
+- [Library](#library)
+- [Model](#model)
+- [Evaluation](#evaluation)
+- [Model Conversion](#model-conversion)
+- About the team
 
-1. **Personalized Recommendations**:
-   Exploria uses AI to analyze user preferences and recommend destinations, activities, and travel packages tailored to individual needs.
+## Datasets
 
-2. **Sustainable Travel Options**:
-   Recommendations prioritize eco-friendly choices, supporting local communities and reducing the environmental footprint.
+The datasets used in this project are essential for training the machine learning models and generating personalized travel recommendations. Below is a list of datasets included in the project:
 
-3. **Itinerary Planning**:
-   The system suggests optimized routes and travel plans for efficient and enjoyable trips.
+1. **Tour_Guide_Biografi_Unique.xlsx**  
+   This dataset contains biographical information about various tour guides, ensuring that only unique records are included. It is used to match travelers with the most relevant local guides.
 
-4. **Support for Local Guides**:
-   Connects travelers with experienced local guides, enhancing cultural understanding and promoting authentic experiences.
+2. **Tour_Guide_Biografi_with_Links_New.csv**  
+   A CSV file containing detailed biographical data about tour guides, along with links to additional resources or online profiles. This dataset is crucial for providing in-depth information to travelers.
 
-## Tools and Infrastructure
+3. **new_tourism_rating_comments.csv**  
+   This file includes ratings and comments for tourism spots. It helps in evaluating the popularity of destinations based on user reviews, which is important for making recommendations.
 
-To achieve these goals, we use:
-- **TensorFlow**: For developing machine learning models.
-- **Scikit-Learn**: For preprocessing and data analysis.
-- **Google Colab/Notebook**: For collaborative model development and testing.
-- **Content-Based Recommendation Algorithms**: To provide tailored suggestions.
-- **Distance Calculation Algorithms**: For itinerary optimization and travel planning.
+4. **new_tourism_with_id_links_3.csv**  
+   This dataset contains information about tourism spots, including unique IDs and links for further reference. It is useful for linking different aspects of the tourism experience (e.g., attractions, activities) with IDs.
+
+5. **old_users_data_with_links.csv**  
+   A dataset containing older user data, including their interaction history with tourism recommendations and links to resources. This is useful for analyzing past behavior and preferences to make more personalized suggestions.
+
+6. **old_users_data_with_links.xlsx**  
+   Similar to the CSV version above but in Excel format, containing historical data of users’ interactions with the platform and relevant links.
+
+7. **package_tourism.csv**  
+   A dataset listing available tourism packages, including descriptions, pricing, and additional details. This helps in recommending tourism packages to users based on their preferences.
+
+8. **tourist_spots_distance.csv**  
+   This file includes the distances between various tourist spots. It is used in optimizing itineraries for users, ensuring that the suggested travel routes are efficient and practical.
+
+All datasets are located in the `Dataset` folder. Make sure to check the data formats and adjust any preprocessing steps as needed before using them to train the models.
+
+---
+
+## Library
+
+In this project, we rely on several libraries to handle data processing, model building, and evaluation. Below are some of the core libraries used:
+
+- **pandas**: For data manipulation and preprocessing.
+- **NumPy**: For numerical computing and handling arrays.
+- **Scikit-Learn**: For machine learning model building and evaluation.
+- **TensorFlow**: For building and training deep learning models.
+- **Matplotlib**: For visualizations and result plotting.
+
+The list of libraries and their versions can be found in the `requirements.txt` file. Install them using the following command:
+
+```bash
+pip install -r requirements.txt
 
 ## About the Team
 
