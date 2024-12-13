@@ -18,10 +18,6 @@ Exploria is designed to:
 - Encourage responsible travel choices that create meaningful experiences for visitors while preserving the country's unique heritage.
 
 ## Table of Contents
-- [Exploria Machine Learning Repository](#exploria-machine-learning-repository)
-  - [Why Exploria?](#why-exploria)
-  - [Our Goals](#our-goals)
-  - [Table of Contents](#table-of-contents)
   - [Installation](#installation)
   - [Datasets](#datasets)
   - [Library](#library)
@@ -80,8 +76,6 @@ The datasets used in this project are essential for the functionality of the app
 6. **tourist_spots_distance.csv**  
    This file includes the distances between various tourist spots. It is used in optimizing itineraries for users, ensuring that the suggested travel routes are efficient and practical.
 
----
-
 ## Library
 
 In this project, we rely on several libraries to handle data processing, model building, and evaluation. Below are some of the core libraries used:
@@ -95,7 +89,6 @@ In this project, we rely on several libraries to handle data processing, model b
 
 The list of libraries and their versions can be found in the `requirements.txt` file. 
 
----
 ## Model
 
 The recommendation system combines collaborative filtering and content-based filtering to create a hybrid recommendation approach. All models are stored in the `Model` folder and can be trained using the corresponding notebooks. The trained models are saved as `.h5` files, ready for inference. Examples of how to use the models can be found in the `Example` directory. Below is a detailed list of the models included in the project:
@@ -107,7 +100,7 @@ The recommendation system combines collaborative filtering and content-based fil
  - The recommendation system suggests destinations by analyzing item attributes and user preferences. It utilizes two primary inputs for training and prediction: user features, which are represented by the average ratings the user has given across different tourism categories, and tourist spot features, which are derived from various attributes and metadata of the tourist spots. This combination allows the model to effectively match user preferences with suitable destinations. The training process is optimized using the Mean Absolute Percentage Error (MAPE) as the primary cost metric, ensuring precise error measurement relative to the scale of the data. The results of the training demonstrated substantial cost reduction, highlighting the model's ability to effectively learn patterns and make accurate predictions. This approach ensures the system delivers reliable, data-driven recommendations tailored to the user’s interests.
 
    <div align="left">
-      <img src="Image/img-collaborative-filtering.png" alt="Content-Based Filtering Architecture and Result" width="600">
+      <img src="Image/img-content-basaed-filtering.png" alt="Collaborative Filtering Architecture and Result" width="600">
    </div>
 
 **Collaborative Filtering**  
@@ -117,10 +110,8 @@ The recommendation system combines collaborative filtering and content-based fil
  - The recommendation system leverages user-item interactions (ratings) to suggest destinations based on similarities among users. The model uses all available user ratings as input to collaboratively train a system that identifies user feature values and tourist spot feature values. These feature values are optimized to meet user preferences while aligning with the ratings of all tourist spots in the dataset. The training process employs a custom cost function tailored specifically for collaborative filtering, ensuring accurate prediction of user ratings. This approach effectively captures latent patterns in user behavior and item attributes. The training results showed significant cost reduction, indicating effective model optimization.
 
    <div align="left">
-      <img src="Image/img-content-basaed-filtering.png" alt="Collaborative Filtering Architecture and Result" width="600">
+      <img src="Image/img-collaborative-filtering.png" alt="Content-Based Filtering Architecture and Result" width="600">
    </div>
-
-
 
 **Hybrid Recommendation**
  - **Class**: `Model/hybrid_recommendation.py`
